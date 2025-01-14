@@ -8,6 +8,12 @@ nacionales, aire y noticias
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="... FLOW" ,📰  Canal 26
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b
 #EXTINF:-1  tvg-id="Argentinisima Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Argentina", Argentinísima Satelital
 https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
