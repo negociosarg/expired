@@ -18,17 +18,17 @@ https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisim
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad                    b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad                   
 #EXTINF:-1  tvg-id="728#Canal Rural" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Argentina", Canal Rural
 https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7ec364ad6854fedad797538cb58780d&key=57dfb3fca2ca35b37ff81c35595e9be8                    e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7ec364ad6854fedad797538cb58780d&key=57dfb3fca2ca35b37ff81c35595e9be8                    
 #EXTINF:-1 group-title="Argentina" tvg-id="726#Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png", Telemax
 https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c7cb1ff69ab931bc2348f2e00381544&key=e89139fc667b4e306f1accb3db40a584                    0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c7cb1ff69ab931bc2348f2e00381544&key=e89139fc667b4e306f1accb3db40a584 
 #EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true", T5 Satelital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd
