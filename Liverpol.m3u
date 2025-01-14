@@ -129,5 +129,14 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Can
 #EXTINF:-1 ch-number="966" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="Argentina Santa Fe - Rosario", TELEFé SANTA FE
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#EXTINF:-1 group-title="Argentina" tvg-id="129#Canal de la ciudad" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true", Canal de la Ciudad
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
+#EXTINF:-1 group-title="Argentina" tvg-id="129#Canal de la ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png", C5N
+http://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 
 
