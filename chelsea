@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/uruguaypremium2.xml.gz,https://www.open-epg.com/files/chile2.xml.gz"
+#EXTM3U refresh="0.01"
+
 
 
 nacionales, aire y noticias
@@ -1685,6 +1686,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=h
 
 
 
+#EXTM3U url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/uruguaypremium2.xml.gz,https://www.open-epg.com/files/chile2.xml.gz"
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=, 
