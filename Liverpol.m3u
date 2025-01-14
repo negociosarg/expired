@@ -142,3 +142,10 @@ http://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 http://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png" 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6b17538810f1dd4485f174dcc204872c","kid":"3d5b973772433ce07c8999aa659ea48c"}],"type":"temporary"}
+#EXTINF:-1 group-title="PRUEBA DE TV", ch-number="705" tvg-id="Canal5.uy.uy" tvg-name="tv publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png", tv publica sensa
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
