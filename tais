@@ -63,32 +63,32 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer
 https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323                    3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323                   
 #EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="123#Telefe HD (ARG)" tvg-logo="https://git.io/JOTOu" group-title="Argentina", Telefé
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f                    103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f  
 #EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe Cordoba" tvg-logo="https://git.io/JOTOu" group-title="Córdoba", Telefé Córdoba
 https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c61b5ac8e1664bf5b544e92ea2597e1c&key=938437ac25f0a18e04efc1a083489edc                    c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c61b5ac8e1664bf5b544e92ea2597e1c&key=938437ac25f0a18e04efc1a083489edc            
 #EXTINF:-1 ch-number="11" group-title="Argentina" tvg-id="telefe" tvg-name="137#Canal 5 de Rosario" tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé Rosario
 https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=59ef9057114f44a480b62e36a6b1374f&key=74ef97bc54df5655c3a1d4f80b16e8d7                    59ef9057114f44a480b62e36a6b1374f:74ef97bc54df5655c3a1d4f80b16e8d7
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=59ef9057114f44a480b62e36a6b1374f&key=74ef97bc54df5655c3a1d4f80b16e8d7    
 #EXTINF:-1 ch-number="11" group-title="Argentina" tvg-id="telefe" tvg-name="Telefe Santa Fe" tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé Santa fé
 https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877                    cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877   
 #EXTINF:-1 ch-number="11" group-title="Argentina" tvg-id="telefe", tvg-name="Telefe HD.uy" tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé Internacional
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca                    90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca         
 #EXTINF:-1 ch-number="12" tvg-id="eldoce tvg-name="Canal 12" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
@@ -96,67 +96,67 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.
 http://cdn.tvar.io/get-yt.m3u8?ch=@eldoce&tokenjwt=7xwREEppaX6fgv77vonj2g==
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76                    5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76                
 #EXTINF:-1  ch-number="13" tvg-id="eltrece tvg-name="124#El Trece (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Argentina", El trece
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5bd469f8bf268d5d148c3971c7c23fca&key=9af98080d22846fdf2988b8ba9ec4add                    5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5bd469f8bf268d5d148c3971c7c23fca&key=9af98080d22846fdf2988b8ba9ec4add               
 #EXTINF:-1  ch-number="13" tvg-id="eltrece tvg-name="EL TRECE.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Argentina", El trece
 https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68                    89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68                 
 #EXTINF:-1 group-title="Argentina"  tvg-id="125#NET TV (ARG)" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="Nacionales", Net TV
 https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93                    ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93                 
 #EXTINF:-1  tvg-id="126#Bravo TV (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" group-title="Argentina", Bravo TV
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9666b195171442afd4551a8de01291a6&key=1c0061df9b4b098e40355167e97cfbf0                    9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9666b195171442afd4551a8de01291a6&key=1c0061df9b4b098e40355167e97cfbf0                   
 #EXTINF:-1 group-title="Argentina"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HCDTV.png?raw=true" tvg-group="Nacionales", Diputados TV
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=695d07988114f7fec31f8f27a6d67c32&key=8e4fbb96cff6a31c88f81565b199a13a                    695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=695d07988114f7fec31f8f27a6d67c32&key=8e4fbb96cff6a31c88f81565b199a13a                 
 #EXTINF:-1 group-title="Argentina" tvg-id="199#KZO" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDcEftxHSDqjmbRp_AmsP6jXlMfUUvvrTzRZZbNq-kGf1XhqB795jNAXWnFFEdCJPUMHQjHroAsauEZzGAl-YEmMHUe_aVTCh_08dUrag2ycjSRHL1KqCspurZr_tQF7XZmjjGcWAgJKjIuFCFk2hHpcF1a1KN_RFZHrSyyotJ3Fz8lMYo0vKrs1sx=s336", KZO Entertaiment
 https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d44f40e49d2945c1a3701c0885ff0b00&key=6382b6279087402714b6824688c456df                    d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d44f40e49d2945c1a3701c0885ff0b00&key=6382b6279087402714b6824688c456df               
 #EXTINF:-1  tvg-id="512#CINE.AR (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INCAA.png?raw=true" group-title="Argentina", Cine.AR
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198                    ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198           
 #EXTINF:-1  tvg-id="Encuentro.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Argentina", Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=719aa3a5e270c7f69eba374ed80d7986&key=97ac59118cf4cf242e2c31e87cd38e1e                    719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=719aa3a5e270c7f69eba374ed80d7986&key=97ac59118cf4cf242e2c31e87cd38e1e     
 #EXTINF:-1 group-title="Argentina"  tvg-id="Metro" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true", METRO
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae                    324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae           
 #EXTINF:-1  tvg-id="CanalA.ar.uy" tvg-logo="https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png" group-title="Argentina", Canal (á)
 https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692                    4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692   
 #EXTINF:-1  tvg-id="236#Magazine" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="Argentina", Ciudad Magazine
 https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe                    194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe  
 #EXTINF:-1   tvg-id="238#Volver" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="Argentina", Volver
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8                    3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8             
 #EXTINF:-1 group-title="Argentina"  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
@@ -166,33 +166,33 @@ https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|r
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=ad60c5e1d378a97271bf8688f094d092                    e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=ad60c5e1d378a97271bf8688f094d092                  
 #EXTINF:-1 group-title="Argentina"  tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" tvg-group="Noticias", Canal 26
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1894229072ccac2d0f6a101d618d039d&key=9a7ea848df202bf22ac51bda4482a4c2                    1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1894229072ccac2d0f6a101d618d039d&key=9a7ea848df202bf22ac51bda4482a4c2                    
 #EXTINF:-1 group-title="Argentina"  tvg-id="CANAL E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" tvg-group="Noticias", Canal E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352                    745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352                    
 #EXTINF:-1 group-title="Argentina"  tvg-id="CronicaTV.ar.uy" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" tvg-group="Noticias", Cronica
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5299f96f873aa0f0e47edc4e15784717&key=9d53176b0969492f2d93f1867be1dce1                    5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5299f96f873aa0f0e47edc4e15784717&key=9d53176b0969492f2d93f1867be1dce1                    
 #EXTINF:-1 group-title="Argentina"  tvg-id="721#IP Noticias HD" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/IPNOT.png?raw=true" tvg-group="Noticias", IP Noticias
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c                    f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c                    
 #EXTINF:-1 group-title="Argentina"  tvg-id="LaNacionPlus.ar.uy" tvg-name="LNAC+" tvg-logo="https://git.io/J35ry" tvg-group="Noticias", La Nación +
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21                    7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21                    
 #EXTINF:-1 group-title="Argentina"  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
@@ -203,14 +203,14 @@ http://cdn.tvar.io/get-yt.m3u8?ch=@luzutv&tokenjwt=7xwREEppaX6fgv77vonj2g==
 http://cdn.tvar.io/get-yt.m3u8?ch=@olgaenvivo_&tokenjwt=7xwREEppaX6fgv77vonj2g==
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea5121a9e3552ca221b5ad04f7f9631&key=0a4c2c76e86f11e71f3365b1b54fcaf9                    8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea5121a9e3552ca221b5ad04f7f9631&key=0a4c2c76e86f11e71f3365b1b54fcaf9                  
 #EXTINF:-1 group-title="" tvg-id="", tvg-logo="https://i.ibb.co/BLpHBq6/extra.png", EXTRA TV
 #EXTVLCOPT:http-origin=https://www.telecentroplay.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 disabledisablehttp://m.mtd.llc:2082/extratv/index.mpd?|origin=https://www.telecentroplay.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4e509e988c595b2ebe01a53ae9f9f88&key=2e7e05d9053f97638edb6d5e8d791fd6                    f4e509e988c595b2ebe01a53ae9f9f88:2e7e05d9053f97638edb6d5e8d791fd6
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4e509e988c595b2ebe01a53ae9f9f88&key=2e7e05d9053f97638edb6d5e8d791fd6                   
 #EXTINF:-1 group-title="" tvg-id="", tvg-logo="https://i.ibb.co/yFbrg0L/eldestape.png", EL DESTAPE
 #EXTVLCOPT:http-origin=https://www.telecentroplay.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -391,19 +391,19 @@ https://musicsrc.cvattv.com.ar/RNAC
 adultos
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb                    8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb                   
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="PlayboyTVLatinAmerica.us.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1", Playboy TV (18+)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434                    95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434                    
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1001" tvg-id="Sextreme.br.uy" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg", Sextreme (18+)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af                    34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af      
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
