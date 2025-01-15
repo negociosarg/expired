@@ -269,7 +269,10 @@ neuquén
 #EXTINF:-1 ch-number="827" tvg-logo="https://3.bp.blogspot.com/-NSUeAruWY9g/WHvPTwTJjSI/AAAAAAAABZU/8JNdfvDLjlIabo6CyqiujRkpt8h9B3-wgCLcB/s1600/canal7-neuquen.png" group-title="Neuquén", CANAL 7 NEUQUÉN
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55828b728b8affe6d1d57d050025645d&key=8ac11ed6d0ccaeac3f8218419f65bb94
+#EXTINF:-1 ch-number="827" tvg-logo="https://cn247.tv/wp-content/uploads/2020/02/logo-24-7-head.png" group-title="Neuquén", CANAL 24/7 NEUQUÉN
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 
 
