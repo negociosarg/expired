@@ -30,12 +30,12 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b
-#EXTINF:-1  tvg-id="Argentinisima Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Argentina", Argentinísima Satelital
+#EXTINF:-1  tvg-id="Argentinisima Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="🇦🇷Argentina" , Argentinísima Satelital
 https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad                   
-#EXTINF:-1  tvg-id="728#Canal Rural" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Argentina", Canal Rural
+#EXTINF:-1  tvg-id="728#Canal Rural" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="🇦🇷Argentina" , Canal Rural
 https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -43,12 +43,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mp
 #EXTINF:-1 group-title="🇦🇷Argentina" tvg-id="726#Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png", Telemax
 https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CARAS.png?raw=true" group-title="Argentina", Caras TV
+#EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CARAS.png?raw=true" group-title="🇦🇷Argentina" , Caras TV
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662                   
-#EXTINF:-1  tvg-id="121#La TV Pública (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Argentina", TV Pública
+#EXTINF:-1  tvg-id="121#La TV Pública (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="🇦🇷Argentina" , TV Pública
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -68,7 +68,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323                   
-#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="123#Telefe HD (ARG)" tvg-logo="https://git.io/JOTOu" group-title="Argentina", Telefé
+#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="123#Telefe HD (ARG)" tvg-logo="https://git.io/JOTOu" group-title="🇦🇷Argentina" , Telefé
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -101,12 +101,12 @@ http://cdn.tvar.io/get-yt.m3u8?ch=@eldoce&tokenjwt=7xwREEppaX6fgv77vonj2g==
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76
-#EXTINF:-1  ch-number="13" tvg-id="eltrece tvg-name="124#El Trece (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Argentina", El trece
+#EXTINF:-1  ch-number="13" tvg-id="eltrece tvg-name="124#El Trece (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="🇦🇷Argentina" , El trece
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5bd469f8bf268d5d148c3971c7c23fca&key=9af98080d22846fdf2988b8ba9ec4add
-#EXTINF:-1  ch-number="13" tvg-id="eltrece tvg-name="EL TRECE.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Argentina", El trece
+#EXTINF:-1  ch-number="13" tvg-id="eltrece tvg-name="EL TRECE.cl" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="🇦🇷Argentina" , El trece
 https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -116,7 +116,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93
-#EXTINF:-1  tvg-id="126#Bravo TV (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" group-title="Argentina", Bravo TV
+#EXTINF:-1  tvg-id="126#Bravo TV (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" group-title="🇦🇷Argentina" , Bravo TV
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -131,12 +131,12 @@ https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|referer=https
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d44f40e49d2945c1a3701c0885ff0b00&key=6382b6279087402714b6824688c456df               
-#EXTINF:-1  tvg-id="512#CINE.AR (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INCAA.png?raw=true" group-title="Argentina", Cine.AR
+#EXTINF:-1  tvg-id="512#CINE.AR (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INCAA.png?raw=true" group-title="🇦🇷Argentina" , Cine.AR
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198           
-#EXTINF:-1  tvg-id="Encuentro.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Argentina", Encuentro
+#EXTINF:-1  tvg-id="Encuentro.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="🇦🇷Argentina" , Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -146,17 +146,17 @@ https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=h
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae
-#EXTINF:-1  tvg-id="CanalA.ar.uy" tvg-logo="https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png" group-title="Argentina", Canal (á)
+#EXTINF:-1  tvg-id="CanalA.ar.uy" tvg-logo="https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png" group-title="🇦🇷Argentina" , Canal (á)
 https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692
-#EXTINF:-1  tvg-id="236#Magazine" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="Argentina", Ciudad Magazine
+#EXTINF:-1  tvg-id="236#Magazine" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="🇦🇷Argentina" , Ciudad Magazine
 https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe
-#EXTINF:-1   tvg-id="238#Volver" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="Argentina", Volver
+#EXTINF:-1   tvg-id="238#Volver" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="🇦🇷Argentina" , Volver
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -182,7 +182,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.m
 http://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 ch-number="1807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png", group-title="Argentina", Canal de la Ciudad
+#EXTINF:-1 ch-number="1807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png", group-title="🇦🇷Argentina" , Canal de la Ciudad
 http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canalciud.playlist.m3u8
 
 
@@ -563,7 +563,7 @@ http://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=http
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7  
-#EXTINF:-1  ch-number="214" tvg-id="303#PAKA PAKA (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PAKAP.png?raw=true" group-title="Argentina", Paka Paka
+#EXTINF:-1  ch-number="214" tvg-id="303#PAKA PAKA (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PAKAP.png?raw=true" group-title="🇦🇷Argentina" , Paka Paka
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
