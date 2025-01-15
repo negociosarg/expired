@@ -43,12 +43,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mp
 #EXTINF:-1 group-title="Argentina" tvg-id="726#Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png", Telemax
 https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c7cb1ff69ab931bc2348f2e00381544&key=e89139fc667b4e306f1accb3db40a584 
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true", T5 Satelital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd
-
 #EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CARAS.png?raw=true" group-title="Argentina", Caras TV
 https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 
