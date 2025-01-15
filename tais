@@ -196,7 +196,7 @@ http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canal7mza.playlist.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15243320c0a79defa8814252e3e8c07&key=0659db05632c0061c126db7a12582499
 #EXTINF:-1 ch-number="807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png" group-title="Mendoza", Canal 9 Televida
-http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canal7mza.playlist.m3u8
+http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canal9televida.playlist.m3u8
 
 buenos aires
 
