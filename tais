@@ -188,7 +188,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.m
 http://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 ch-number="1807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png", Canal de la Ciudad
+#EXTINF:-1 ch-number="1807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png", group-title="Argentina", Canal de la Ciudad
 http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canalciud.playlist.m3u8
 
 
