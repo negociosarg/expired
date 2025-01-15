@@ -14,8 +14,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisim
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=key=5ee7842b3cf24d1dba088365fa5d0543&key=69cec006409823c06fbf2866a231b4f7
 #EXTINF:-1 group-title="Argentina" tvg-id="129#Canal de la ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png", Canal de la Ciudad
-https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd
-
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad                   
