@@ -6,19 +6,6 @@
 
 nacionales, aire y noticias
 
-#EXTM3U
-#KODIPROP:http-referrer=https://player.sensa.com.ar/
-#KODIPROP:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="...SENSA",💞 TELEMUNDO
-https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/160/160/0/0/61362740071226.png" group-title="...SENSA",🧩 NICK JR
-https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b
 #EXTINF:-1  tvg-id="Argentinisima Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Argentina", Argentinísima Satelital
@@ -224,7 +211,17 @@ disabledisablehttp://m.mtd.llc:2082/extratv/index.mpd?|origin=https://www.telece
 disabledisablehttp://m.mtd.llc:2082/eldestape/index.mpd?|origin=https://www.telecentroplay.com.ar
 
 
+Mendoza
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15243320c0a79defa8814252e3e8c07&key=0659db05632c0061c126db7a12582499
+#EXTINF:-1 ch-number="807" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjblT5f-LbPIcvgAlPRtibkJE_ZpiRwC6o9qvvbcDUnd6h7WAzYIgalu8yeDF6rxoS_I3G8xhbHRx8Yd5fJ5CdmtYtNs5XLCfR-alUtXaIY78IKrglbOnvjHSwX7th4DuYnroKS_WXQGAml5aOdMla5-rFC9XtRXjQyySm4K3oRb5hW3B763iLTnA0h/s483/elsietetv.png" group-title="Mendoza", Canal Siete Mendoza
+http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canal7mza.playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15243320c0a79defa8814252e3e8c07&key=0659db05632c0061c126db7a12582499
+#EXTINF:-1 ch-number="807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_9_Televida_%28Logo_2015%29.webp" group-title="Mendoza", Canal 9 Televida
+http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canal7mza.playlist.m3u8
 
 buenos aires
 
