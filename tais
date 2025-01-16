@@ -246,7 +246,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9
 chaco
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dde29700ee0423e1afe3828c6f251295&key=1928b62bc191bd26c357137d7d909868
-#EXTINF:-1 ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canal9resistencia.png/231px-Canal9resistencia.png" group-title="Chaco", 9 NORDESTE
+#EXTINF:-1 ch-number="810" tvg-logo="https://www.noticiero9.com.ar/img/logo-blanco.png" group-title="Chaco - Corrientes - Entre Rios", 9 NORDESTE
 https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -254,11 +254,11 @@ corrientes
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iD/XLcm3LbM9e0+NwOsAFg","kid":"7oN9DsQU2VpRsMelfUnTBw"}],"type":"temporary"}
-#EXTINF:-1 ch-number="813" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Corrientes", 13 Max Corrientes 
+#EXTINF:-1 ch-number="813" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Chaco - Corrientes - Entre Rios", 13 Max Corrientes 
 https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_enc/CH_13_Corrientes.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 ch-number="807" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Corrientes", 5TV
+#EXTINF:-1 ch-number="807" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Chaco - Corrientes - Entre Rios", 5TV
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 
 
@@ -267,7 +267,7 @@ entre ríos
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dd573858f3414066b9292ef6397a5c3c&key=593eb5f7facce4240ff7a5f26afd47e0
-#EXTINF:-1 ch-number="819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entre Ríos", Canal 9 Litoral
+#EXTINF:-1 ch-number="819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Chaco - Corrientes - Entre Rios", Canal 9 Litoral
 https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
