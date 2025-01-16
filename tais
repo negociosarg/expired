@@ -293,17 +293,31 @@ misiones
 #EXTINF:-1 ch-number="832" tvg-logo="http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png" group-title="Misiones", CANAL 12 MISIONES
 https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-Río negro
-
 
 salta
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581
-#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta", EL ONCE TV SALTA
+#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta - Jujuy", EL ONCE TV SALTA
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
+#EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
+#EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2017/08/canal-7-vivo.jpg" group-title="Salta -Jujuy",, El Siete TV 
+https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/c/CanalSieteMendoza1/live
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g94QZKB/somosjujuy.png" group-title="Salta -Jujuy",, CANAL 7 JUJUY
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cypF3kz/Canal-4-Jujuy-en-vivo-Online-40685-1080x675.png" group-title="Salta -Jujuy", CANAL 4 JUJUY Op2
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cypF3kz/Canal-4-Jujuy-en-vivo-Online-40685-1080x675.png" group-title="Salta -Jujuy",, CANAL 4 JUJUY
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://radiomitrejujuy.com.ar/public/img/radio_mitre_logo_550x369.png" group-title="Salta -Jujuy",, Radio Mitre Jujuy
+https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8
 
 
 santa fe
