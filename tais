@@ -619,7 +619,7 @@ cine, novelas y series (300xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9be1432e1e594c8d0648a44d3d9f0c46&key=8e6c785b14d973c504074b1920f11b15  
-#EXTINF:-1 ch-number="300" tvg-id="Adult Swim.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Cine, Novelas y Series", [adult swim]
+#EXTINF:-1 ch-number="300" tvg-id="Adult Swim.uy" tvg-logo="https://i.ibb.co/sbGxLjy/2025-01-16-00-45-17-removebg-preview.png" group-title="Cine, Novelas y Series", [adult swim]
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
