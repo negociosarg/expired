@@ -289,14 +289,14 @@ San Juan
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png/411px-Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="San Juan", Canal 8 San Juan
-https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canal8sanjuan.playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
-#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://www.diarioelzondasj.com.ar/_rv20241104-01/web/assets/imgs/logos/zonda_color.svg" group-title="San Juan", Canal Zonda San Juan
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://i.ibb.co/cJwk9Tz/zonda-tv-removebg-preview.png" group-title="San Juan", Canal Zonda San Juan
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
-#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://www.telesoldiario.com/_rv20241101-01/web/assets/imgs/logos/telesol_w.png" group-title="San Juan", Telesol Diario
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://i.ibb.co/mbGNw0r/tlslogo.png" group-title="San Juan", Telesol Diario
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
@@ -304,18 +304,14 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/654571.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="San Juan", Canal 4 San Juan
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="https://canal4sanjuan.com.ar/digital/images/logo-cir.png" group-title="San Juan", Canal 4 San Juan
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/02kBv8P/Flag-of-Argentina.png" 
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal4sanjuan.png" group-title="San Juan", Canal 4 San Juan
+#EXTINF:-1 tvg-logo="https://canal4sanjuan.com.ar/digital/images/logo-cir.png" group-title="San Juan", Canal 4 San Juan
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal30sanjuan.png" group-title="San Juan", Canal 30 San juan
-https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv
-
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/34sanjuan.png" group-title="San Juan", Canal 34 San juan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="San Juan", Canal 34 San juan
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 
