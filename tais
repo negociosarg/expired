@@ -452,17 +452,6 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Inte
 #EXTINF:-1 ch-number="108" tvg-id="TyC Sports" tvg-name="TyC Sports Internacional USA" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
 http://casgrind.site:2082/Jordi2707cone3/TE9XJ9KBvYpG/472195
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0ae7b0708be4edf3453c1ab9d6976974&key=8b31a9788f6dc12640ba69560fcb4b39  
-#EXTINF:-1 ch-number="109" tvg-id="Tyc sport 2" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" group-title="Deportes", TYC SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04983282c2fa819a08fa03a13fe4fdbe&key=4780a24340ea957c4a27b257e2b6ec4c  
-#EXTINF:-1 ch-number="110" tvg-id="CLAROSPORTS" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="Deportes", Claro Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b  
@@ -480,8 +469,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=555555555555555&key=888888888888888888  
-    https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ==
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ==
 #EXTINF:-1 group-title="Deportes" ch-number="114" tvg-id="dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports (ARG)
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
