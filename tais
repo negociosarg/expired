@@ -806,6 +806,160 @@ disablehttp://m.mtd.llc:8880/CH0100000000067/index.mpd?|Origin="android_mobile.d
 disablehttp://m.mtd.llc:8880/CH0100000000230/index.mpd?|origin=android_mobile.directvgo.com
 
 
+mundiales e internacionales
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=137a1a70fa118b695118a3aad9485b13&key=7c35ca36d4452dfa03d88725a0d16105  
+#EXTINF:-1 group-title="Mundo" ch-number="600" tvg-id="Al-Jazeera" tvg-logo="http://78.47.174.211/logos/aljazeera.png", Al Jazeera
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92  
+#EXTINF:-1 ch-number="601" tvg-id="Antena3Internacional.es.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ANTN3.png?raw=true" group-title="Mundo", Antena 3 Internacional
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=436d78a75fad9bdcc6d409640c116a62&key=c77471ac3b694513a9c5ff68b8d4fac5  
+#EXTINF:-1 group-title="Mundo" ch-number="602" tvg-id="Ariran" tvg-logo="https://dl.dropbox.com/scl/fi/ypa36be1uanbbg5tit6un/ariran.jpg?rlkey=95uva8kx766zprs4m5xytgdj2&dl=1", Ariran
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_cenc/Arirang.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=019f72f2091d4cbea59ff8c85b117f86&key=a4eac51195506752f9f63ad24def9c37  
+#EXTINF:-1 ch-number="603" tvg-id="BBCNewsLatinAmerica.uk.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BBCNW.png?raw=true" group-title="Mundo", BBC News
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e50891cdc64452aae20d049727f2f3f&key=551871ba1dc6a95597ec0cb82eb3b2a4  
+#EXTINF:-1 group-title="Mundo" ch-number="604" tvg-id="Bloomberg.uy" tvg-logo="https://i.ibb.co/kccgz9B/Bloomberg-symbol.png", Bloomberg tv
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b37d85be9d2b4b619f945beff713fda3&key=917309c98f072b0bd484dd6560c6d166  
+#EXTINF:-1 ch-number="605" tvg-id="LasEstrellasLatinAmerica.mx.uy" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="Mundo", Canal De Las Estrellas
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a  
+#EXTINF:-1 ch-number="606" tvg-id="CNNenEspanol.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo", CNN En Español
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f24708ad1184ee3a04b650941f9894b&key=e5bc7c5ff392119423dbf1c023a7b21c  
+#EXTINF:-1 ch-number="607" tvg-id="CNNInternationalLatinAmerica.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo", CNN Internacional
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=21563d82cfb7fdd18b213f0bd92a274f&key=5940d8d0b57b9e6533e99cc0e7bf2f8e  
+#EXTINF:-1 group-title="Mundo" ch-number="608" tvg-id="D-News" tvg-logo="https://i.ibb.co/gJL91wN/DNews.png", D News
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0  
+#EXTINF:-1 ch-number="609" tvg-id="Deustche Welle.uy" tvg-logo="https://git.io/JOTLM" group-title="Mundo", Deutsche Welle
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f  
+#EXTINF:-1 ch-number="610" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EURON.png?raw=true" group-title="Mundo", Euronews
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=72187f2651724db18505cdcad435841d&key=6f41e05476e34edf7bb9dc51f08f95df  
+#EXTINF:-1 group-title="Mundo" ch-number="611" tvg-id="France24" tvg-logo="http://78.47.174.211/logos/france24.png", France24
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6  
+#EXTINF:-1 group-title="Mundo" ch-number="612" tvg-id="France24Espanol.fr.uy" tvg-logo="http://78.47.174.211/logos/france24.png", France24 Español
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3fe3f31a5e7b48a1b548e9364757ce66&key=32993fc281207fe915f6f1e990957868  
+#EXTINF:-1 ch-number="613" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXNW.png?raw=true" group-title="Mundo", FOX News
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=23419f2a0a214038a94e24db13ee85a9&key=4c627ad6b8774e548e28d4aaf82a96a0  
+#EXTINF:-1 ch-number="614" tvg-id="TV Galicia.uy" tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/350/500/0/0/778293230765.png" group-title="Mundo", Galicia TV America
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://cdn-mun.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=abdfd83824e9ba585f74fb72c647aa4f&key=9967e06e39893998d16714988d9d87f1  
+#EXTINF:-1 ch-number="615" tvg-id="CanalRural.lat" tvg-logo="https://dl.dropbox.com/scl/fi/kdj2xc9eagwc620spbpee/rurallatam.jpg?rlkey=8uusg0pp1ddsc9g4vu3jir4zm&dl=1" group-title="Mundo", Latam Rural
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/Latam_Rural/SA_Live_dash_enc_C/Latam_Rural.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b4f56d5c19b45fb3e75a73b6ec06e6c&key=c464e2b6ded2b52e1e7753b3a859abce  
+#EXTINF:-1 group-title="Mundo" ch-number="616" tvg-id="New-Brasil" tvg-logo="https://i.ibb.co/5vSfGjj/new-brasil.png", New Brasil
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d  
+#EXTINF:-1 ch-number="617" tvg-id="RaiItaliaAmerica.it.uy" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b0bd8ea11b3f4c219903085ef1d44b0d&key=9a25709a72c2ca93cb738665736cfa5a  
+#EXTINF:-1 group-title="Mundo" ch-number="618" tvg-id="Record Internacional.uy" tvg-logo="https://i.postimg.cc/DmVv4ZCT/rede-record.png", Rede Record Brasil
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://cdn-mun.cvattv.com.ar/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e  
+#EXTINF:-1 ch-number="619" tvg-id="Telemundo.uy" tvg-logo="https://git.io/JOTtz" group-title="Mundo", Telemundo Internacional
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds//Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5235d8ee29f14ce6b26ea5d828aee77a&key=6bf6bd339e3098babc2ab0b984cd2376  
+#EXTINF:-1 group-title="Mundo" ch-number="620" tvg-id="Telesur.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg", Telesur
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0  
+#EXTINF:-1 ch-number="621" tvg-id="TV5MondeLatinAmerica.fr.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TV5AL.png?raw=true" group-title="Mundo", TV5Monde Amerique Latine
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c  
+#EXTINF:-1 ch-number="622" tvg-id="TVChile.cl.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53e0a3741e2e4ff5843f165b53309088&key=45095caabd9a359cd7ea3910d865d643  
+#EXTINF:-1 ch-number="623" tvg-id="TVEInternacionalAmerica.es.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="Mundo", TVE
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8236bef638490a63aacdc424df908658&key=6229f752364cd5e71cd31a9ef9757bf1  
+#EXTINF:-1 group-title="Mundo" ch-number="624" tvg-id="veplus" tvg-logo="https://dl.dropbox.com/scl/fi/xk05kx05hq2265pfgmdvk/ve-plus.jpg?rlkey=7ery39zxclpw9gp4swdl8fj89&dl=1", Ve Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
 
 
 
