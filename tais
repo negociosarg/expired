@@ -39,9 +39,12 @@ nacionales, aire y noticias
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"S06+PGjEyVx2OQludsIz0A", "kid":"DEjNXjKYt2KgmazcBaUYKg" } ], "type":"temporary" }
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="PRUEBA SENSA", 📰 TODO NOTICIAS 
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
