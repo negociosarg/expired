@@ -1271,6 +1271,318 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mp
 #EXTINF:-1 tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", group-title="🇺🇾Uruguay", Gol TV
 http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
 
+PERU
+
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Peru_bandera.png/800px-Peru_bandera.png" 
+#EXTINF:-1BRASIL="1915" tvg-name="America TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSGYvhxixgh-kspFghnG6i4NPikwcMV8zMSA&usqp=CAU" group-title="🇵🇪Peru",America TV
+http://tvplanet.online/live/Logitech25/Logitech25/1070243.m3u8
+#EXTINF:-1BRASIL="1916" tvg-name="America TV (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSGYvhxixgh-kspFghnG6i4NPikwcMV8zMSA&usqp=CAU" group-title="🇵🇪Peru",America TV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070244.m3u8
+#EXTINF:-1BRASIL="1917" tvg-name="ATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdIK52n_gSFMXmdTC-gzdhvR0UCddsik0QbG0wGCwwJPYZlGL_6AxCouhqgxp_4vWdeo&usqp=CAU" group-title="🇵🇪Peru",ATV
+http://tvplanet.online/live/Logitech25/Logitech25/1070245.m3u8
+#EXTINF:-1BRASIL="1918" tvg-name="ATV (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdIK52n_gSFMXmdTC-gzdhvR0UCddsik0QbG0wGCwwJPYZlGL_6AxCouhqgxp_4vWdeo&usqp=CAU" group-title="🇵🇪Peru",ATV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070246.m3u8
+#EXTINF:-1BRASIL="1919" tvg-name="ATV+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdIK52n_gSFMXmdTC-gzdhvR0UCddsik0QbG0wGCwwJPYZlGL_6AxCouhqgxp_4vWdeo&usqp=CAU" group-title="🇵🇪Peru",ATV+
+http://tvplanet.online/live/Logitech25/Logitech25/1070248.m3u8
+#EXTINF:-1BRASIL="1920" tvg-name="ATV+ (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdIK52n_gSFMXmdTC-gzdhvR0UCddsik0QbG0wGCwwJPYZlGL_6AxCouhqgxp_4vWdeo&usqp=CAU" group-title="🇵🇪Peru",ATV+ (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070249.m3u8
+#EXTINF:-1BRASIL="1921" tvg-name="BHTV" tvg-logo="https://dnslivetv.online:443/images/0JjsK5WXwCF8tWgCoDdGnXvVQp0epJvqQnKH9NUhig6QbhAnERXfQMQT7cy8Of0uovRd0iPCrfQzpXQPZAb6xkN0G8b_lYxAD_eqFOfrIZPCLnUL9AE8hvrT4KuRBPOs.png" group-title="🇵🇪Peru",BHTV
+http://tvplanet.online/live/Logitech25/Logitech25/1070250.m3u8
+#EXTINF:-1BRASIL="1922" tvg-name="Canal IPE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCcyz9htDCRoWcbgJpcCPUcfEwxq_m0BwtDh393WfzESuekExaUOvfgJqXCjvnCUh4uw&usqp=CAU" group-title="🇵🇪Peru",Canal IPE
+http://tvplanet.online/live/Logitech25/Logitech25/1070251.m3u8
+#EXTINF:-1BRASIL="1923" tvg-name="Canal N" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpD9qL_M6IxEHu85MhHv236XUcFsreGaD95Wa2KUdaL29GYhWxbe9WCUt0BGnQmC7fF.png" group-title="🇵🇪Peru",Canal N
+http://tvplanet.online/live/Logitech25/Logitech25/1070252.m3u8
+#EXTINF:-1BRASIL="1924" tvg-name="Global" tvg-logo="https://dnslivetv.online:443/images/F3mpd4zkMAdF8P-LIlNWeKfN0Q_RoZ1PRd8RNEHJPktlFVbaSpgQrf2TV4U6XpjXGatJThPyLloTkHyxSP58OaLd87DDXo3I_DNFM_OXVZKIy_SeiBgMGaX00gPJtUR0sQf3R9Xa0k9yGdZMaoiobw.png" group-title="🇵🇪Peru",Global
+http://tvplanet.online/live/Logitech25/Logitech25/1070253.m3u8
+#EXTINF:-1BRASIL="1927" tvg-name="Kribe?a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4MX7a8HPTCfQyB8hfaYPGoXDCv4EhvPaOTCvtw_mu9D5uC0C7jjKAOEjQtLP2TJAkcc&usqp=CAU" group-title="🇵🇪Peru",Kribe?a
+http://tvplanet.online/live/Logitech25/Logitech25/1070257.m3u8
+#EXTINF:-1BRASIL="1928" tvg-name="La Exitosa" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDKJFndH_i55zjpclWnH29nxStWqXMeEwl2WT4Iitlvto.png" group-title="🇵🇪Peru",La Exitosa
+http://tvplanet.online/live/Logitech25/Logitech25/1070258.m3u8
+#EXTINF:-1BRASIL="1929" tvg-name="Latina" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RiKTfEcaW7uu56O3GXtR1krl6df5VNHf3KIO1VNcQOtcg.png" group-title="🇵🇪Peru",Latina
+http://tvplanet.online/live/Logitech25/Logitech25/1070260.m3u8
+#EXTINF:-1BRASIL="1930" tvg-name="Latina (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RiKTfEcaW7uu56O3GXtR1krl6df5VNHf3KIO1VNcQOtcg.png" group-title="🇵🇪Peru",Latina (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070261.m3u8
+#EXTINF:-1BRASIL="1936" tvg-name="Nativa" tvg-logo="https://dnslivetv.online:443/images/czBHon3PcsOVYrSo-ML7vRd-mxH4T7oySrIMcgrtvih0SG8iFF69BHedRb6dGLAgujb4umlyg3j9M8cXVMdJ-NoyetFKDYKdJbjeABET1NY.png" group-title="🇵🇪Peru",Nativa
+http://tvplanet.online/live/Logitech25/Logitech25/1070267.m3u8
+#EXTINF:-1BRASIL="1937" tvg-name="Onda Digital" tvg-logo="https://play-lh.googleusercontent.com/JtWTNZ3vy-dLfSynACgDQVP19iaeW_XW_UF-47Unb7vGjEBFwBOPEFjFGQTO1Xe9AEkh" group-title="🇵🇪Peru",Onda Digital
+http://tvplanet.online/live/Logitech25/Logitech25/1070268.m3u8
+#EXTINF:-1BRASIL="1938" tvg-name="Panamericana" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ4JdFFPZ9OUrHamJJVIYAmTiCSqriD2YDem_xFwITM_FtNvWEgod5VAEo67jQyQIuvnPwu8A_mSzAEbRIzM5kCE.png" group-title="🇵🇪Peru",Panamericana
+http://tvplanet.online/live/Logitech25/Logitech25/1070270.m3u8
+#EXTINF:-1BRASIL="1939" tvg-name="Peru Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/TV_Per%C3%BA_logo_variante_2008-2009.svg/revision/latest/scale-to-width-down/250?cb=20220912163636&path-prefix=es" group-title="🇵🇪Peru",Peru Channel
+http://tvplanet.online/live/Logitech25/Logitech25/1070271.m3u8
+#EXTINF:-1BRASIL="1940" tvg-name="Peru Magico" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7sM7kA3WeoyJSvUXUXIuVama0F9IPSGxvDhsLx7k10b0.png" group-title="🇵🇪Peru",Peru Magico
+http://tvplanet.online/live/Logitech25/Logitech25/1070272.m3u8
+#EXTINF:-1BRASIL="1941" tvg-name="RPP" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZOR11UyQqX9EjcFr5WC6UtsOLp_yqNhs8SmsmvIQhGSY.png" group-title="🇵🇪Peru",RPP
+http://tvplanet.online/live/Logitech25/Logitech25/1070274.m3u8
+#EXTINF:-1BRASIL="1942" tvg-name="Sol TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCbkaLhV5zs6bGeEaG-e3YEEHcP_xdnkRvw&usqp=CAU" group-title="🇵🇪Peru",Sol TV
+http://tvplanet.online/live/Logitech25/Logitech25/1070275.m3u8
+#EXTINF:-1BRASIL="1943" tvg-name="TV Peru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV_Per%C3%BA_logo_con_eslogan_2012_1.svg/revision/latest/scale-to-width-down/250?cb=20220715142127&path-prefix=es" group-title="🇵🇪Peru",TV Peru
+http://tvplanet.online/live/Logitech25/Logitech25/1070277.m3u8
+#EXTINF:-1BRASIL="1944" tvg-name="TV Peru Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV_Per%C3%BA_logo_con_eslogan_2012_1.svg/revision/latest/scale-to-width-down/250?cb=20220715142127&path-prefix=es" group-title="🇵🇪Peru",TV Peru Noticias
+http://tvplanet.online/live/Logitech25/Logitech25/1070278.m3u8
+#EXTINF:-1BRASIL="1945" tvg-name="Willax SD (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qyyfEmJL8MssmISF6EJhufcJSjROrehTvATpBkg5rRlwYsjtzEiivCOfBlWHLA0XAY4&usqp=CAU" group-title="🇵🇪Peru",Willax SD (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070279.m3u8
+#EXTINF:-1BRASIL="1946" tvg-name="Radio Inolvidable - 93.7 (Peru)" tvg-logo="https://dnslivetv.online:443/images/IuigvAV4Z7cnJV7mttppDo91nMN7mDu3ZhNKs2Qm2cqdKoSfQq1CCklvQU6fEd2V.png" group-title="🇵🇪Peru",Radio Inolvidable - 93.7 (Peru)
+http://tvplanet.online/live/Logitech25/Logitech25/1070282.m3u8
+#EXTINF:-1BRASIL="1947" tvg-name="Radio Magica - 88.3 (Peru)" tvg-logo="https://dnslivetv.online:443/images/EAYlfUkuMatpCT1QLnYO-zjzH3--w4PP60olnp7U3LD4iuLubk7v84ieDy3d61llkfLJoIhhE4vxKF5wUeU4dw.png" group-title="🇵🇪Peru",Radio Magica - 88.3 (Peru)
+http://tvplanet.online/live/Logitech25/Logitech25/1070283.m3u8
+#EXTINF:-1BRASIL="1948" tvg-name="Radio Moda  (Peru)" tvg-logo="https://dnslivetv.online:443/images/IuigvAV4Z7cnJV7mttppDloUIZbMGuBudDnouTH8qT6M5SdyJzOt4KLVEBxTpInf.png" group-title="🇵🇪Peru",Radio Moda  (Peru)
+http://tvplanet.online/live/Logitech25/Logitech25/1070284.m3u8
+#EXTINF:-1BRASIL="1949" tvg-name="Radio Panamericana" tvg-logo="https://dnslivetv.online:443/images/tA8Evgaq2VtIAAIl5Xg7zjW9u4P5S-3FjQUHpiYx7aRuWo7tYwtdY8HzXmmj4-SxzhdpRkWkT474ODCco5q7vWE7jFP6G9goTikmIZ_q4IOT_DVDEP3iWihvyUO6-vjA.png" group-title="🇵🇪Peru",Radio Panamericana
+http://tvplanet.online/live/Logitech25/Logitech25/1070285.m3u8
+#EXTINF:-1BRASIL="2617" tvg-name="BHTV (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfFMS0T5dPKcapibCewcmzgDSOWxjsA1QRWlI9OjfNz1OuUhZgUZI39FbS6QtvbIpgL.png" group-title="🇵🇪Peru",BHTV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072047.m3u8
+#EXTINF:-1BRASIL="2618" tvg-name="Canal IPE (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCcyz9htDCRoWcbgJpcCPUcfEwxq_m0BwtDh393WfzESuekExaUOvfgJqXCjvnCUh4uw&usqp=CAU" group-title="🇵🇪Peru",Canal IPE (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072048.m3u8
+#EXTINF:-1BRASIL="2619" tvg-name="Canal N (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpD9qL_M6IxEHu85MhHv236XUcFsreGaD95Wa2KUdaL29GYhWxbe9WCUt0BGnQmC7fF.png" group-title="🇵🇪Peru",Canal N (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072049.m3u8
+#EXTINF:-1BRASIL="2620" tvg-name="Global (OP2 )" tvg-logo="https://dnslivetv.online:443/images/F3mpd4zkMAdF8P-LIlNWeKfN0Q_RoZ1PRd8RNEHJPktlFVbaSpgQrf2TV4U6XpjXGatJThPyLloTkHyxSP58OaLd87DDXo3I_DNFM_OXVZKIy_SeiBgMGaX00gPJtUR0sQf3R9Xa0k9yGdZMaoiobw.png" group-title="🇵🇪Peru",Global (OP2 )
+http://tvplanet.online/live/Logitech25/Logitech25/1072050.m3u8
+#EXTINF:-1BRASIL="2621" tvg-name="Kribe?a (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4MX7a8HPTCfQyB8hfaYPGoXDCv4EhvPaOTCvtw_mu9D5uC0C7jjKAOEjQtLP2TJAkcc&usqp=CAU" group-title="🇵🇪Peru",Kribe?a (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072051.m3u8
+#EXTINF:-1BRASIL="2622" tvg-name="La Exitosa (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDKJFndH_i55zjpclWnH29nxStWqXMeEwl2WT4Iitlvto.png" group-title="🇵🇪Peru",La Exitosa (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072052.m3u8
+#EXTINF:-1BRASIL="2623" tvg-name="Nativa (OP2)" tvg-logo="https://dnslivetv.online:443/images/czBHon3PcsOVYrSo-ML7vRd-mxH4T7oySrIMcgrtvih0SG8iFF69BHedRb6dGLAgujb4umlyg3j9M8cXVMdJ-NoyetFKDYKdJbjeABET1NY.png" group-title="🇵🇪Peru",Nativa (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072053.m3u8
+#EXTINF:-1BRASIL="2624" tvg-name="Onda Digital (OP2)" tvg-logo="https://dnslivetv.online:443/images/o2OrF62Wiqa3f6XmDq6JIng7HTsLqGW8dj83UiigjkF3q-Xa4PIJZScyI5r-IyRDGWD5TYHjvNHcpwr1B7N5cGalURYx7ZC_YbRpMHVIqJE.png" group-title="🇵🇪Peru",Onda Digital (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072054.m3u8
+#EXTINF:-1BRASIL="2625" tvg-name="Panamericana (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UXqhv4WHjE9zl3njNV3iUtHqnnOHEU41DIk_C7w_WTPA.png" group-title="🇵🇪Peru",Panamericana (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072055.m3u8
+#EXTINF:-1BRASIL="2626" tvg-name="Peru Channel (OP2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/TV_Per%C3%BA_logo_variante_2008-2009.svg/revision/latest/scale-to-width-down/250?cb=20220912163636&path-prefix=es" group-title="🇵🇪Peru",Peru Channel (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072056.m3u8
+#EXTINF:-1BRASIL="2627" tvg-name="Peru Magico (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWZ_mFdTEoOVZuTRfSFzEO7sM7kA3WeoyJSvUXUXIuVama0F9IPSGxvDhsLx7k10b0.png" group-title="🇵🇪Peru",Peru Magico (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072057.m3u8
+#EXTINF:-1BRASIL="2628" tvg-name="RPP (OP2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Logo-rpp.svg/revision/latest/scale-to-width-down/320?cb=20210626020229" group-title="🇵🇪Peru",RPP (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072059.m3u8
+#EXTINF:-1BRASIL="2629" tvg-name="Sol TV (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7A6z3l0iecGftTKmtmyF0FxkRy5eEVvIXCHHkDTiksiYtDbs0RUO78MVDffnplI0.png" group-title="🇵🇪Peru",Sol TV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072060.m3u8
+#EXTINF:-1BRASIL="2630" tvg-name="TV Peru (OP2)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLobQ_hMl6E7yXGVNKYv63ykHqB7vl7ogCqoWuZ_gd-tLH.png" group-title="🇵🇪Peru",TV Peru (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072061.m3u8
+#EXTINF:-1BRASIL="2631" tvg-name="TV Peru Noticias (OP2)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLobQ_hMl6E7yXGVNKYv63ykHqB7vl7ogCqoWuZ_gd-tLH.png" group-title="🇵🇪Peru",TV Peru Noticias (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072062.m3u8
+#EXTINF:-1BRASIL="2632" tvg-name="Radio Inolvidable - 93.7 (Peru) (OP2)" tvg-logo="https://dnslivetv.online:443/images/IuigvAV4Z7cnJV7mttppDo91nMN7mDu3ZhNKs2Qm2cqdKoSfQq1CCklvQU6fEd2V.png" group-title="🇵🇪Peru",Radio Inolvidable - 93.7 (Peru) (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072063.m3u8
+#EXTINF:-1BRASIL="2633" tvg-name="Radio Magica - 88.3 (Peru) (OP2)" tvg-logo="https://dnslivetv.online:443/images/EAYlfUkuMatpCT1QLnYO-zjzH3--w4PP60olnp7U3LD4iuLubk7v84ieDy3d61llkfLJoIhhE4vxKF5wUeU4dw.png" group-title="🇵🇪Peru",Radio Magica - 88.3 (Peru) (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072064.m3u8
+#EXTINF:-1BRASIL="2634" tvg-name="Radio Moda  (Peru) (OP2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Radio_Moda_M%C3%A1s.png/revision/latest?cb=20220808215733&path-prefix=es" group-title="🇵🇪Peru",Radio Moda  (Peru) (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072065.m3u8
+#EXTINF:-1BRASIL="2635" tvg-name="Radio Panamericana (OP2)" tvg-logo="https://dnslivetv.online:443/images/tA8Evgaq2VtIAAIl5Xg7zjW9u4P5S-3FjQUHpiYx7aRuWo7tYwtdY8HzXmmj4-SxzhdpRkWkT474ODCco5q7vWE7jFP6G9goTikmIZ_q4IOT_DVDEP3iWihvyUO6-vjA.png" group-title="🇵🇪Peru",Radio Panamericana (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072066.m3u8
+#EXTINF:-1BRASIL="2644" tvg-name="WILLAX PE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Willax_Televisi%C3%B3n_logo_con_texto_blanco_y_sombra_2015.svg/revision/latest/scale-to-width-down/1200?cb=20221028023906&path-prefix=es" group-title="🇵🇪Peru",WILLAX PE
+http://tvplanet.online/live/Logitech25/Logitech25/1072109.m3u8
+#EXTINF:-1BRASIL="2744" tvg-name="Ovacion" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ovacion_Radio_logo.png/revision/latest/scale-to-width-down/250?cb=20210406165629&path-prefix=es" group-title="🇵🇪Peru",Ovacion
+http://tvplanet.online/live/Logitech25/Logitech25/1072645.m3u8
+#EXTINF:-1BRASIL="2745" tvg-name="Capital TV" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKbza4JC39OVvXVHJ3qt-SDXipwegHRgWeh9byIrl5J_KA.png" group-title="🇵🇪Peru",Capital TV
+http://tvplanet.online/live/Logitech25/Logitech25/1072646.m3u8
+#EXTINF:-1BRASIL="1925" tvg-name="Gol Peru SD (OP2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es"group-title="🇵🇪Peru",Gol Peru SD (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070254.m3u8
+#EXTINF:-1BRASIL="1926" tvg-name="Gol Peru FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es"group-title="🇵🇪Peru",Gol Peru FHD
+http://tvplanet.online/live/Logitech25/Logitech25/1070256.m3u8
+#EXTINF:-1BRASIL="1931" tvg-name="Liga 1" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ8Kw76IfVe7v6FY103COghrkExo42Zzg_SJb0CEeVpD2Sg5xJK4FIHRKwbp7PtFDcRrDZDicSWSJ0PioO5VexTE.png"group-title="🇵🇪Peru",Liga 1
+http://tvplanet.online/live/Logitech25/Logitech25/1070262.m3u8
+#EXTINF:-1BRASIL="1932" tvg-name="Liga 1 Max" tvg-logo="https://dnslivetv.online:443/images/oroGAtXinmJEnFqwiOc-0M8pxbPbmMOK90rnM9eZ9MmnWd1Lzp9Ds9b5NV8yGFIr6h_7G7e4vudCXOIDRfl4aK5wL59lUn6ZWWlmKkS92v0Fjafu2F3T-ONPmu6zz667kELZ2vcPScZufkZHQ4A7WX67YnQdz2wXBB1A3mFdYeU.png"group-title="🇵🇪Peru",Liga 1 Max
+http://tvplanet.online/live/Logitech25/Logitech25/1070263.m3u8
+#EXTINF:-1BRASIL="1933" tvg-name="Liga 1 Max (OP2)" tvg-logo="https://dnslivetv.online:443/images/oroGAtXinmJEnFqwiOc-0M8pxbPbmMOK90rnM9eZ9MmnWd1Lzp9Ds9b5NV8yGFIr6h_7G7e4vudCXOIDRfl4aK5wL59lUn6ZWWlmKkS92v0Fjafu2F3T-ONPmu6zz667kELZ2vcPScZufkZHQ4A7WX67YnQdz2wXBB1A3mFdYeU.png"group-title="🇵🇪Peru",Liga 1 Max (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070264.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Peru_bandera.png/800px-Peru_bandera.png" 
+#EXTINF:-1BRASIL="1934" tvg-name="Movistar Deportes" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj-wzT4jc_qHOqsuqjJSt8Yg9cCmvpiaKzc9FD_RccUUwzJ2_soOYAyQEIJ2kjGKFc88OOmBYA9OCwan5JnNm1vztIVkqryLqSJDJHbQOl2OU.png"group-title="🇵🇪Peru",Movistar Deportes
+http://tvplanet.online/live/Logitech25/Logitech25/1070265.m3u8
+#EXTINF:-1BRASIL="1935" tvg-name="Movistar Plus" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ3F_iPJfCVC2kmuXpJmd0HYwDLXv7gQkiP6dNL0aSugng.png"group-title="🇵🇪Peru",Movistar Plus
+http://tvplanet.online/live/Logitech25/Logitech25/1070266.m3u8
+#EXTINF:-1BRASIL="2636" tvg-name="Liga 1 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ8Kw76IfVe7v6FY103COghrkExo42Zzg_SJb0CEeVpD2Sg5xJK4FIHRKwbp7PtFDcRrDZDicSWSJ0PioO5VexTE.png"group-title="🇵🇪Peru",Liga 1 (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072069.m3u8
+#EXTINF:-1BRASIL="2637" tvg-name="Liga 1 Max (OP2)" tvg-logo="https://dnslivetv.online:443/images/oroGAtXinmJEnFqwiOc-0M8pxbPbmMOK90rnM9eZ9MmnWd1Lzp9Ds9b5NV8yGFIr6h_7G7e4vudCXOIDRfl4aK5wL59lUn6ZWWlmKkS92v0Fjafu2F3T-ONPmu6zz667kELZ2vcPScZufkZHQ4A7WX67YnQdz2wXBB1A3mFdYeU.png"group-title="🇵🇪Peru",Liga 1 Max (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072070.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Peru_bandera.png/800px-Peru_bandera.png" 
+#EXTINF:-1BRASIL="2638" tvg-name="Movistar Deportes (OP2)" tvg-logo="https://dnslivetv.online:443/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dxL5JI2p-J9OzLc4OB5JHuJCeAeUH340e3_svhZA1H5qSMBUzNFZZMVElYDgsPreKVZcQ4UySo3YkulQuDgM5Hj.png"group-title="🇵🇪Peru",Movistar Deportes (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1072071.m3u8
+#EXTINF:-1BRASIL="2856" tvg-name="Movistar Plus" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ3F_iPJfCVC2kmuXpJmd0HYwDLXv7gQkiP6dNL0aSugng.png"group-title="🇵🇪Peru",Movistar Plus
+http://tvplanet.online/live/Logitech25/Logitech25/1073364.m3u8
+
+
+
+
+BOLIVIA
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/800px-Bandera_de_Bolivia_%28Estado%29.svg.png" 
+#EXTINF:-1BRASIL="1908" tvg-name="Abya Yala TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Vto8lslknznAxhSmTzvlUHen3-ZlsOjdUn5cvbGOJ_RpI1EXcNdthQZ-7r3rmV4VBPk&usqp=CAU" group-title="🇧🇴Bolivia",Abya Yala TV
+http://tvplanet.online/live/Logitech25/Logitech25/1070189.m3u8
+#EXTINF:-1BRASIL="1909" tvg-name="ATB" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZvUngZm-gTHzc_HsLkhc70sZXAiK0zsEDenkWqWmJBGc.png" group-title="🇧🇴Bolivia",ATB
+http://tvplanet.online/live/Logitech25/Logitech25/1070190.m3u8
+#EXTINF:-1BRASIL="1910" tvg-name="Bolivia TV" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZxxqyQCXIZPqJFraYbTIwPlmM6zIBQqre2DAJ2dlhwcbUqCAhJdojFh1AkwfnGRWSyGcXbPVsFyMwP9nbxO8bKo.png" group-title="🇧🇴Bolivia",Bolivia TV
+http://tvplanet.online/live/Logitech25/Logitech25/1070191.m3u8
+#EXTINF:-1BRASIL="1911" tvg-name="Bolivia TV 7.1 (OP2)*" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZxxqyQCXIZPqJFraYbTIwPlmM6zIBQqre2DAJ2dlhwcbUqCAhJdojFh1AkwfnGRWSyGcXbPVsFyMwP9nbxO8bKo.png" group-title="🇧🇴Bolivia",Bolivia TV 7.1 (OP2)*
+http://tvplanet.online/live/Logitech25/Logitech25/1070192.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/800px-Bandera_de_Bolivia_%28Estado%29.svg.png"
+#EXTINF:-1BRASIL="1912" tvg-name="Bolivision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVH0nzVqWuLJhD6ZCti_yLV7ga-gY_7npRX_cJTdjOPSXmYhNhnP6AwkgZfxscJXhPp2g&usqp=CAU" group-title="🇧🇴Bolivia",Bolivision
+http://tvplanet.online/live/Logitech25/Logitech25/1070193.m3u8
+#EXTINF:-1BRASIL="1913" tvg-name="RTP" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLocQCGw-wn8wf6eD_l3-4ebgMRrova294oyspKA-wBR8d.png" group-title="🇧🇴Bolivia",RTP
+http://tvplanet.online/live/Logitech25/Logitech25/1070196.m3u8
+#EXTINF:-1BRASIL="1914" tvg-name="Unitel" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoarlh1Kq6nwGIuuq22crVQ6lqt8kxA6gFMJtgt2qFasR.png" group-title="🇧🇴Bolivia",Unitel
+http://tvplanet.online/live/Logitech25/Logitech25/1070197.m3u8
+#EXTINF:-1BRASIL="2463" tvg-name="RED PAT" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZkXHrQrLjSOezheNZyNNG0DPTZfPsjblRIq-6MGGSqzs.png" group-title="🇧🇴Bolivia",RED PAT
+http://tvplanet.online/live/Logitech25/Logitech25/1071453.m3u8
+#EXTINF:-1BRASIL="2464" tvg-name="RED UNO SANTA CRUZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/RedUNObolivia2022.png/revision/latest/scale-to-width-down/250?cb=20221211200709&path-prefix=es" group-title="🇧🇴Bolivia",RED UNO SANTA CRUZ
+http://tvplanet.online/live/Logitech25/Logitech25/1071454.m3u8
+#EXTINF:-1BRASIL="2466" tvg-name="Red DTV" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ0cTjmJjzjHcGybZF5G7G18B40Ep5k66c8V1jt3rrvojqrC1QiABLynEgmxfEVhsgwy6N7i55ofblgK4hAuHiKc.png" group-title="🇧🇴Bolivia",Red DTV
+http://tvplanet.online/live/Logitech25/Logitech25/1071456.m3u8
+#EXTINF:-1BRASIL="2467" tvg-name="CINERAMA" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="🇧🇴Bolivia",CINERAMA
+http://tvplanet.online/live/Logitech25/Logitech25/1071457.m3u8
+#EXTINF:-1BRASIL="2468" tvg-name="TVU sucre" tvg-logo="https://dnslivetv.online:443/images/0JjsK5WXwCF8tWgCoDdGnXvVQp0epJvqQnKH9NUhig6QbhAnERXfQMQT7cy8Of0usSMfEkRXe66NPN4hTHEL52lD3W_O8f79r61pIOOYRjpHEWAH3oyTqmsZkEHVRzUTNHeEgmfzBz28sEnsAGn9jzvWomt5hB9d46OpcJfkIPY.png" group-title="🇧🇴Bolivia",TVU sucre
+http://tvplanet.online/live/Logitech25/Logitech25/1071458.m3u8
+#EXTINF:-1BRASIL="2503" tvg-name="Abya Yala TV (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Vto8lslknznAxhSmTzvlUHen3-ZlsOjdUn5cvbGOJ_RpI1EXcNdthQZ-7r3rmV4VBPk&usqp=CAU" group-title="🇧🇴Bolivia",Abya Yala TV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071729.m3u8
+#EXTINF:-1BRASIL="2504" tvg-name="ATB (OP2)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoc284Eeatqh_sPTk8LkQflxoWn2DBUQ8AyxeJPEuXFMB.png" group-title="🇧🇴Bolivia",ATB (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071730.m3u8
+#EXTINF:-1BRASIL="2506" tvg-name="Bolivia TV (OP2)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoTR7tPRtJwFftEqzKjDF1OEaQq-oP6RZuEUHAZJxBb9K.png" group-title="🇧🇴Bolivia",Bolivia TV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071732.m3u8
+#EXTINF:-1BRASIL="2510" tvg-name="Bolivia TV 7.1 (OP2)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoTR7tPRtJwFftEqzKjDF1OEaQq-oP6RZuEUHAZJxBb9K.png" group-title="🇧🇴Bolivia",Bolivia TV 7.1 (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071736.m3u8
+#EXTINF:-1BRASIL="2516" tvg-name="Bolivision (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVH0nzVqWuLJhD6ZCti_yLV7ga-gY_7npRX_cJTdjOPSXmYhNhnP6AwkgZfxscJXhPp2g&usqp=CAU" group-title="🇧🇴Bolivia",Bolivision (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071743.m3u8
+#EXTINF:-1BRASIL="2520" tvg-name="RTP (OP2)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLocQCGw-wn8wf6eD_l3-4ebgMRrova294oyspKA-wBR8d.png" group-title="🇧🇴Bolivia",RTP (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071748.m3u8
+#EXTINF:-1BRASIL="2521" tvg-name="Unitel (OP2)" tvg-logo="https://dnslivetv.online:443/images/yrZQhpKMcNyZ6rzERTCLoarlh1Kq6nwGIuuq22crVQ6lqt8kxA6gFMJtgt2qFasR.png" group-title="🇧🇴Bolivia",Unitel (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071749.m3u8
+#EXTINF:-1BRASIL="2523" tvg-name="RED PAT (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZkXHrQrLjSOezheNZyNNG0DPTZfPsjblRIq-6MGGSqzs.png" group-title="🇧🇴Bolivia",RED PAT (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071751.m3u8
+#EXTINF:-1BRASIL="2530" tvg-name="RED UNO SANTA CRUZ (OP2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/RedUNObolivia2022.png/revision/latest/scale-to-width-down/250?cb=20221211200709&path-prefix=es" group-title="🇧🇴Bolivia",RED UNO SANTA CRUZ (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071758.m3u8
+#EXTINF:-1BRASIL="2533" tvg-name="Red DTV (OP2)" tvg-logo="https://dnslivetv.online:443/images/Bp-vRtZEje6kFpdMZzWxZ0cTjmJjzjHcGybZF5G7G18B40Ep5k66c8V1jt3rrvojqrC1QiABLynEgmxfEVhsgwy6N7i55ofblgK4hAuHiKc.png" group-title="🇧🇴Bolivia",Red DTV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071761.m3u8
+#EXTINF:-1BRASIL="2575" tvg-name="CINERAMA (OP2)" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="🇧🇴Bolivia",CINERAMA (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071805.m3u8
+#EXTINF:-1BRASIL="2579" tvg-name="TVU sucre (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZWA9Z9pxlREXoxW47tCMBjA.png" group-title="🇧🇴Bolivia",TVU sucre (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071809.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/800px-Bandera_de_Bolivia_%28Estado%29.svg.png"
+#EXTINF:-1BRASIL="2645" tvg-name="Tigo Sports 1 Bolivia" tvg-logo="https://play-lh.googleusercontent.com/l-Vsm722zOIM0S1OcByXcOCT3aSOXbGvTmjs8RRjP2Zx3U8FIPjHodWYaBBH32lxRx0=w600-h300-pc0xffffff-pd" group-title="🇧🇴Bolivia",Tigo Sports 1 Bolivia
+http://tvplanet.online/live/Logitech25/Logitech25/1072113.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/800px-Bandera_de_Bolivia_%28Estado%29.svg.png"
+#EXTINF:-1BRASIL="3155" tvg-name="Tigo Sports 2 Bolivia" tvg-logo="https://play-lh.googleusercontent.com/l-Vsm722zOIM0S1OcByXcOCT3aSOXbGvTmjs8RRjP2Zx3U8FIPjHodWYaBBH32lxRx0=w600-h300-pc0xffffff-pd" group-title="🇧🇴Bolivia",Tigo Sports 2 Bolivia
+http://tvplanet.online/live/Logitech25/Logitech25/1087302.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/800px-Bandera_de_Bolivia_%28Estado%29.svg.png"
+#EXTINF:-1BRASIL="3156" tvg-name="Tigo Sports 3 Bolivia" tvg-logo="https://play-lh.googleusercontent.com/l-Vsm722zOIM0S1OcByXcOCT3aSOXbGvTmjs8RRjP2Zx3U8FIPjHodWYaBBH32lxRx0=w600-h300-pc0xffffff-pd" group-title="🇧🇴Bolivia",Tigo Sports 3 Bolivia
+http://tvplanet.online/live/Logitech25/Logitech25/1087303.m3u8
+
+
+CHILE
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png"
+#EXTINF:-1BRASIL="1817" tvg-name="13c" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOsgtrPydlirPGf0NGqvZvR48TY8gAQQ35g&usqp=CAU" group-title="🇨🇱Chile",13c
+http://tvplanet.online/live/Logitech25/Logitech25/1070062.m3u8
+#EXTINF:-1BRASIL="1818" tvg-name="13c (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOsgtrPydlirPGf0NGqvZvR48TY8gAQQ35g&usqp=CAU" group-title="🇨🇱Chile",13c (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070063.m3u8
+#EXTINF:-1BRASIL="1819" tvg-name="24 Horas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fvDYIJUshjGFwM9Eq6IhzVD1jad_e6Q8gg&usqp=CAU" group-title="🇨🇱Chile",24 Horas
+http://tvplanet.online/live/Logitech25/Logitech25/1070064.m3u8
+#EXTINF:-1BRASIL="1820" tvg-name="Canal 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOc3y6icRdiKOyrezrEehQx_4gQAhHoWyj5KcDAHjX6nQryANRybHykMgP3UWzmoF5ZBM&usqp=CAU" group-title="🇨🇱Chile",Canal 13
+http://tvplanet.online/live/Logitech25/Logitech25/1070067.m3u8
+#EXTINF:-1BRASIL="1821" tvg-name="Canal 13 (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOc3y6icRdiKOyrezrEehQx_4gQAhHoWyj5KcDAHjX6nQryANRybHykMgP3UWzmoF5ZBM&usqp=CAU" group-title="🇨🇱Chile",Canal 13 (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070069.m3u8
+#EXTINF:-1BRASIL="1825" tvg-name="Chilevision (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjssdGgzz2054NoMfOeqNGGmeadCU4wrElwm2pi1nQkbfRwfTxXYdkSJx943EhDpkIW0pQ--4ajH-7edzeb5Pi9XxC8wCGTsc7JzRfxOH0Au35x1b_Lzef0iHeXNIxqwPD.png" group-title="🇨🇱Chile",Chilevision (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070073.m3u8
+#EXTINF:-1BRASIL="1826" tvg-name="Chilevision" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjssdGgzz2054NoMfOeqNGGmeadCU4wrElwm2pi1nQkbfRwfTxXYdkSJx943EhDpkIW0pQ--4ajH-7edzeb5Pi9XxC8wCGTsc7JzRfxOH0Au35x1b_Lzef0iHeXNIxqwPD.png" group-title="🇨🇱Chile",Chilevision
+http://tvplanet.online/live/Logitech25/Logitech25/1070074.m3u8
+#EXTINF:-1BRASIL="1827" tvg-name="CNN Chile (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0kRB6wI-Wy-NSNkruImp1MxjOPZJTAt6q_KtVH-ds9eA.png" group-title="🇨🇱Chile",CNN Chile (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070076.m3u8
+#EXTINF:-1BRASIL="1828" tvg-name="CNN Chile" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0kRB6wI-Wy-NSNkruImp1MxjOPZJTAt6q_KtVH-ds9eA.png" group-title="🇨🇱Chile",CNN Chile
+http://tvplanet.online/live/Logitech25/Logitech25/1070077.m3u8
+#EXTINF:-1BRASIL="1832" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZdv4g45t13fsWpnVkLPipECGZBNnKbWEtLjPRnRQVJPf9rz5xPIqruXLoju3BuNKaBQ&usqp=CAU" group-title="🇨🇱Chile",ETC TV
+http://tvplanet.online/live/Logitech25/Logitech25/1070081.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png"
+#EXTINF:-1BRASIL="1833" tvg-name="ETC TV (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZdv4g45t13fsWpnVkLPipECGZBNnKbWEtLjPRnRQVJPf9rz5xPIqruXLoju3BuNKaBQ&usqp=CAU" group-title="🇨🇱Chile",ETC TV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070083.m3u8
+#EXTINF:-1BRASIL="1837" tvg-name="La Red (OP2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/La_Red.svg/revision/latest/scale-to-width-down/200?cb=20220324042147" group-title="🇨🇱Chile",La Red (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070089.m3u8
+#EXTINF:-1BRASIL="1838" tvg-name="Mega" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkk6MVRLD0OJbmVnjY9C0qbxjsq90fkCW0w&usqp=CAU" group-title="🇨🇱Chile",Mega
+http://tvplanet.online/live/Logitech25/Logitech25/1070091.m3u8
+#EXTINF:-1BRASIL="1839" tvg-name="Mega (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkk6MVRLD0OJbmVnjY9C0qbxjsq90fkCW0w&usqp=CAU" group-title="🇨🇱Chile",Mega (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070092.m3u8
+#EXTINF:-1BRASIL="1840" tvg-name="Rec TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-88eu3xM5HP0fMe6-_oMgoHj0rPWEKQcFKFMZkXZBDvVnZky9G9a-rQ65cyJnVIxmGn8&usqp=CAU" group-title="🇨🇱Chile",Rec TV
+http://tvplanet.online/live/Logitech25/Logitech25/1070094.m3u8
+#EXTINF:-1BRASIL="1841" tvg-name="Rec TV (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-88eu3xM5HP0fMe6-_oMgoHj0rPWEKQcFKFMZkXZBDvVnZky9G9a-rQ65cyJnVIxmGn8&usqp=CAU" group-title="🇨🇱Chile",Rec TV (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070095.m3u8
+#EXTINF:-1BRASIL="1842" tvg-name="Teletrak" tvg-logo="https://dnslivetv.online:443/images/MPHhRrCtJmmi0X4jns1nei_-7WLhDdeUmO1p_d5BpQVpb_ibhTXjuIB9o12_gMZYfrBXfqbuN4jGKM_DlRX5E2-as8-ye_Q4NiiJOepEG-mNB1pgPaG4O_25j6f9Yl82v5mpHcze8oNVmEqWsh2Oeg.png" group-title="🇨🇱Chile",Teletrak
+http://tvplanet.online/live/Logitech25/Logitech25/1070096.m3u8
+#EXTINF:-1BRASIL="1849" tvg-name="TV Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Q1uZL9mImW1y6tLSlkSNDVBKkdrP9KH0rSsrC4tfa7niE33FKSNZTSV96t7uqKAiz-Q&usqp=CAU" group-title="🇨🇱Chile",TV Chile
+http://tvplanet.online/live/Logitech25/Logitech25/1070106.m3u8
+#EXTINF:-1BRASIL="1850" tvg-name="TV Chile (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Q1uZL9mImW1y6tLSlkSNDVBKkdrP9KH0rSsrC4tfa7niE33FKSNZTSV96t7uqKAiz-Q&usqp=CAU" group-title="🇨🇱Chile",TV Chile (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070107.m3u8
+#EXTINF:-1BRASIL="1851" tvg-name="TV+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKnIYz-ayMyFWvyoh2BINeFljP4dJACyTrOA&usqp=CAU" group-title="🇨🇱Chile",TV+
+http://tvplanet.online/live/Logitech25/Logitech25/1070108.m3u8
+#EXTINF:-1BRASIL="1852" tvg-name="TV+ (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKnIYz-ayMyFWvyoh2BINeFljP4dJACyTrOA&usqp=CAU" group-title="🇨🇱Chile",TV+ (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070109.m3u8
+#EXTINF:-1BRASIL="1853" tvg-name="TVN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPUNzEQt-q3YjgznYyt6fUlhCtJYMayNz7g&usqp=CAU" group-title="🇨🇱Chile",TVN
+http://tvplanet.online/live/Logitech25/Logitech25/1070110.m3u8
+#EXTINF:-1BRASIL="1854" tvg-name="TVN (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqPUNzEQt-q3YjgznYyt6fUlhCtJYMayNz7g&usqp=CAU" group-title="🇨🇱Chile",TVN (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070111.m3u8
+#EXTINF:-1BRASIL="1855" tvg-name="Via X" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YROVUDgVEf-vd1PbXrZq7hj9MoiuC8NtHMacZKpJvplInlQ-MYl2dwd8m7_v2VoTHw&usqp=CAU" group-title="🇨🇱Chile",Via X
+http://tvplanet.online/live/Logitech25/Logitech25/1070113.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png"
+#EXTINF:-1BRASIL="1856" tvg-name="Zona Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXujPoKXmsy1zThOXDvbarBNfdNf8qpO3Z3Q&usqp=CAU" group-title="🇨🇱Chile",Zona Latina
+http://tvplanet.online/live/Logitech25/Logitech25/1070114.m3u8
+#EXTINF:-1BRASIL="2588" tvg-name="24 Horas (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fvDYIJUshjGFwM9Eq6IhzVD1jad_e6Q8gg&usqp=CAU" group-title="🇨🇱Chile",24 Horas (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071875.m3u8
+#EXTINF:-1BRASIL="2589" tvg-name="Teletrak  (OP2)" tvg-logo="https://dnslivetv.online:443/images/MPHhRrCtJmmi0X4jns1nei_-7WLhDdeUmO1p_d5BpQVpb_ibhTXjuIB9o12_gMZYfrBXfqbuN4jGKM_DlRX5E2-as8-ye_Q4NiiJOepEG-mNB1pgPaG4O_25j6f9Yl82v5mpHcze8oNVmEqWsh2Oeg.png" group-title="🇨🇱Chile",Teletrak  (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071877.m3u8
+#EXTINF:-1BRASIL="2590" tvg-name="Via X (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YROVUDgVEf-vd1PbXrZq7hj9MoiuC8NtHMacZKpJvplInlQ-MYl2dwd8m7_v2VoTHw&usqp=CAU" group-title="🇨🇱Chile",Via X (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071886.m3u8
+#EXTINF:-1BRASIL="2591" tvg-name="Zona Latina (OP2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXujPoKXmsy1zThOXDvbarBNfdNf8qpO3Z3Q&usqp=CAU" group-title="🇨🇱Chile",Zona Latina (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071887.m3u8
+#EXTINF:-1BRASIL="3193" tvg-name="La Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/La_Red.svg/revision/latest/scale-to-width-down/200?cb=20220324042147" group-title="🇨🇱Chile",La Red
+http://tvplanet.online/live/Logitech25/Logitech25/1173146.m3u8
+#EXTINF:-1BRASIL="1822" tvg-name="CDO Basico" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDw9rPsY0uyZEoV0LrPKWcavxzOX-Y9TrUu1YiW3QNudA.png" group-title="🇨🇱Chile",CDO Basico
+http://tvplanet.online/live/Logitech25/Logitech25/1070070.m3u8
+#EXTINF:-1BRASIL="1823" tvg-name="CDO Basico (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDw9rPsY0uyZEoV0LrPKWcavxzOX-Y9TrUu1YiW3QNudA.png" group-title="🇨🇱Chile",CDO Basico (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070071.m3u8
+#EXTINF:-1BRASIL="1824" tvg-name="CDO Premium" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDw9rPsY0uyZEoV0LrPKWcavxzOX-Y9TrUu1YiW3QNudA.png" group-title="🇨🇱Chile",CDO Premium
+http://tvplanet.online/live/Logitech25/Logitech25/1070072.m3u8
+#EXTINF:-1BRASIL="1829" tvg-name="ESPN 2" tvg-logo="https://dnslivetv.online:443/images/gOuwPMqHW6F8T0yIXCUOZLqAqdWDyDrV7NwJ2GduxJymh-VtC_AK9k7VOaM3f6nGBz54cTFi33gUDmmMWFO9fgB3VoIIVtmo6HK8-wEEszbcIvCF6LWF4XjBtRSGm15RA5EFmTlprvqOoDNN_mUH_g.png" group-title="🇨🇱Chile",ESPN 2
+http://tvplanet.online/live/Logitech25/Logitech25/1070078.m3u8
+#EXTINF:-1BRASIL="1830" tvg-name="ESPN 3" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tKhguZIcysJCOF2JvPlIJSvuQVaAD031bq7Xcfut3WeO4DnChGS3hbiTLdbyttU3dJjge4PxOg4WN3n68gU8fkAw7BPv0zasGmsrRhbrJ8QajMCiju337XwhTip1lfIE9eOvHVN9azR3XhhQAgZyJJMkKoxNJiN9LwgDG8RmNMnl.png" group-title="🇨🇱Chile",ESPN 3
+http://tvplanet.online/live/Logitech25/Logitech25/1070079.m3u8
+#EXTINF:-1BRASIL="1831" tvg-name="ESPN" tvg-logo="https://dnslivetv.online:443/images/Z9P7BwxXlTl-k8RLQ286tDKrOmGzHYsK0BHZ9-deqaYDSclGQy3AgUimD1CFJ3qgxLkk_9otOhnofCDavf__WiG0O2dBORtbnn5nsASa1WQ6Cr6a6SzLm8ULyVCV_6W-CqIZqZKxY6oms5eP3awfYYWVtWQDl2SLW7pINR4WiHM.png" group-title="🇨🇱Chile",ESPN
+http://tvplanet.online/live/Logitech25/Logitech25/1070080.m3u8
+#EXTINF:-1BRASIL="1834" tvg-name="Fox Sports 1" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjQJK92xwZqFGMgxsT75SvhTuVTIed3e4wOO95wmlj3uV87H_lpW5L60hWpsbxLzLZUYk6GR2nrZEDNCMVGS5-oO51TLG53FLKg1UxalFB34Q.png" group-title="🇨🇱Chile",Fox Sports 1
+http://tvplanet.online/live/Logitech25/Logitech25/1070084.m3u8
+#EXTINF:-1BRASIL="1835" tvg-name="Fox Sports 1 (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjQJK92xwZqFGMgxsT75SvhTuVTIed3e4wOO95wmlj3uV87H_lpW5L60hWpsbxLzLZUYk6GR2nrZEDNCMVGS5-oO51TLG53FLKg1UxalFB34Q.png" group-title="🇨🇱Chile",Fox Sports 1 (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070085.m3u8
+#EXTINF:-1BRASIL="1836" tvg-name="Fox Sports 2" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtAB2TXDJVHzL8r7H1yze_sxpXnBWJQco8LKLuzPqHDVo.png" group-title="🇨🇱Chile",Fox Sports 2
+http://tvplanet.online/live/Logitech25/Logitech25/1070086.m3u8
+#EXTINF:-1BRASIL="1843" tvg-name="TNT Estadio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcX9JwYwoVPPwJHxdS8R4VPmeAhnAu1-tzw&s" group-title="🇨🇱Chile",TNT Estadio
+http://tvplanet.online/live/Logitech25/Logitech25/1070097.m3u8
+#EXTINF:-1BRASIL="1844" tvg-name="TNT Sports" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ3NhJ44ESSUMqfVAOOhwssFvly2m6hS5Gh9j7WtuB4n9A.png" group-title="🇨🇱Chile",TNT Sports
+http://tvplanet.online/live/Logitech25/Logitech25/1070098.m3u8
+#EXTINF:-1BRASIL="1845" tvg-name="TNT Sports (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ3NhJ44ESSUMqfVAOOhwssFvly2m6hS5Gh9j7WtuB4n9A.png" group-title="🇨🇱Chile",TNT Sports (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1070100.m3u8
+#EXTINF:-1BRASIL="1846" tvg-name="TNT Sports 2" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360" group-title="🇨🇱Chile",TNT Sports 2
+http://tvplanet.online/live/Logitech25/Logitech25/1070102.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png"
+#EXTINF:-1BRASIL="1847" tvg-name="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/TNT_Sports_%282023%29_II.svg/revision/latest/scale-to-width-down/250?cb=20230630184634" group-title="🇨🇱Chile",TNT Sports
+http://tvplanet.online/live/Logitech25/Logitech25/1070104.m3u8
+#EXTINF:-1BRASIL="1848" tvg-name="TNT Sports 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/TNT_Sports_%282023%29_II.svg/revision/latest/scale-to-width-down/250?cb=20230630184634" group-title="🇨🇱Chile",TNT Sports 3
+http://tvplanet.online/live/Logitech25/Logitech25/1070105.m3u8
+#EXTINF:-1BRASIL="1857" tvg-name="Fox Sports 2" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvtAB2TXDJVHzL8r7H1yze_sxpXnBWJQco8LKLuzPqHDVo.png" group-title="🇨🇱Chile",Fox Sports 2
+http://tvplanet.online/live/Logitech25/Logitech25/1070115.m3u8
+#EXTINF:-1BRASIL="2592" tvg-name="CDO Premium (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDw9rPsY0uyZEoV0LrPKWcavxzOX-Y9TrUu1YiW3QNudA.png" group-title="🇨🇱Chile",CDO Premium (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071890.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Brasil
 
 #EXTM3U
