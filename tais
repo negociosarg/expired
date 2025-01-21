@@ -24,7 +24,13 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_H
 #EXTINF:-1 ch-number="108" tvg-id="TyC Sports" tvg-name="629#TyC Sports" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="🇦🇷 Argentina ⚽Pack Fútbol", ⚽TyC Sports
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-
+#EXTINF:-1 ch-number="124" tvg-id="603#TNT Sports" tvg-logo="https://i.ibb.co/K5xMnCp/unnamed-removebg-preview.png" group-title="🇦🇷 Argentina ⚽Pack Fútbol", ⚽TNT Sports 2
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 
 
@@ -901,10 +907,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd?|r
 
 DEPORTES INTERNACIONALES
 
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257  
-#EXTINF:-1 group-title="Deportes Internacionales" tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Grupo_Caliente_Logo.png", CALIENTE TV
-https://cdn-calisports-pri-01.vos360.video/Content/Channel/calientetv/DASH/master.mpd
+
 
 #EXTINF:-1 group-title="Deportes Internacionales" tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Grupo_Caliente_Logo.png", CALIENTE TV
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
