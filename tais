@@ -901,12 +901,17 @@ https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd?|r
 
 DEPORTES INTERNACIONALES
 
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257  
+#EXTINF:-1 group-title="Deportes Internacionales" tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Grupo_Caliente_Logo.png", CALIENTE TV
+https://cdn-calisports-pri-01.vos360.video/Content/Channel/calientetv/DASH/master.mpd
+
 #EXTINF:-1 group-title="Deportes Internacionales" tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Grupo_Caliente_Logo.png", CALIENTE TV
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid57d9f2e808050bdf7a604fb2556ff406&key=789d04a9f546057231db23e68115e951
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=57d9f2e808050bdf7a604fb2556ff406&key=789d04a9f546057231db23e68115e951
 https://cdn-calisports-pri-01.vos360.video/Content/Channel/calientetv/DASH/master.mpd
 
 
