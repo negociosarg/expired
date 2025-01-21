@@ -908,7 +908,16 @@ DEPORTES INTERNACIONALES
 
 
 
-#EXTINF:-1 group-title="Deportes Internacionales" tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Grupo_Caliente_Logo.png", CALIENTE TV
+#EXTINF:-1 group-title="Deportes Internacionales" tvg-id=" tvg-logo="https://i.ibb.co/Y0f1vgt/peacocktv.png", Peacock TV
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+#EXTINF:-1 group-title="Deportes Internacionales" tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Grupo_Caliente_Logo.png", Caliente TV
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
