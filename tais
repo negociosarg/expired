@@ -757,6 +757,12 @@ https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd?|referer=htt
 
 mundiales e internacionales
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8af41461cac43b0791958320e60d821b&key=3590b4e7796f9ee6ac82e1a6ddca75b6  
+#EXTINF:-1 group-title="Mundo" ch-number="600" tvg-id="Al-Jazeera" tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png?impolicy=nbc_com&imwidth=600&imdensity=1", Universo
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=137a1a70fa118b695118a3aad9485b13&key=7c35ca36d4452dfa03d88725a0d16105  
