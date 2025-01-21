@@ -24,7 +24,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_H
 #EXTINF:-1 ch-number="108" tvg-id="TyC Sports" tvg-name="629#TyC Sports" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="🇦🇷 Argentina ⚽Pack Fútbol", ⚽TyC Sports
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 ch-number="124" tvg-id="603#TNT Sports" tvg-logo="https://i.ibb.co/K5xMnCp/unnamed-removebg-preview.png" group-title="🇦🇷 Argentina ⚽Pack Fútbol", ⚽TNT Sports 2
+#EXTINF:-1 ch-number="1248" tvg-id="603#TNT Sports" tvg-logo="https://i.ibb.co/K5xMnCp/unnamed-removebg-preview.png" group-title="🇦🇷 Argentina ⚽Pack Fútbol", ⚽TNT Sports 2
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
