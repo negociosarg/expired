@@ -10,8 +10,12 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662                 
 #EXTINF:-1  tvg-id="121#La TV Pública (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="🇦🇷Argentina" , TV Pública app
-http://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662                 
+#EXTINF:-1  tvg-id="121#La TV Pública (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="🇦🇷Argentina" , TV Pública app 2
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
 Argentina - ⚽Pack Fútbol
