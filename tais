@@ -58,7 +58,7 @@ https://smt-edge03.sensa.com.ar//live/eds/Canal13/live_dash_cld/Canal13.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="4" tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" tvg-group="Noticias", Canal 26 app
+#EXTINF:-1 tvg-chno="4" tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" troup-title="...SENSA", Canal 26 app
 http://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
 
