@@ -907,7 +907,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd?|ref
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-
+#EXTINF:-1 group-logo="https://i.ibb.co/CM77Yjf/original.png"
+#EXTINF:-1 ch-number="5555" tvg-id="disney" tvg-logo= content-type="playlist" , Eventos Disney
+https://lahutao.elementfx.com/dazc/disney/
 
 
 EVENTOS DISNEY
