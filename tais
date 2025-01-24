@@ -7,24 +7,6 @@
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662                 
-#EXTINF:-1  tvg-id="121#La TV Pública (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="🇦🇷Argentina" , TV Pública app
-http://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662                 
-#EXTINF:-1  tvg-id="121#La TV Pública (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="🇦🇷Argentina" , TV Pública app 2
-http://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-
-#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24 PRUEBA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed936cd5cb59eeee83addafb446662a4&key=dd4b7aeb2bc000468883296e7ae4a09b
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-http://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd|http-referrer=https:/player.sensa.com.ar//|origin=https://player.sensa.com.ar
-
 
 
 Argentina - ⚽Pack Fútbol
@@ -211,6 +193,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1 group-title="🇦🇷Argentina"  tvg-id="a24.ar.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" tvg-group="Noticias", A24
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8
+#EXTINF:-1 group-title="🇦🇷Argentina"  tvg-id="a24.ar.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" tvg-group="Noticias", A24 2
+https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4
