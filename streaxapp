@@ -1339,3 +1339,181 @@ http://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd
 #KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY1
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney1/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY2
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney2/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY3
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney3/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY4
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney4/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY5
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney5/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY6
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney6/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY7
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney7/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney8/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY9
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney9/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY10
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney10/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY11
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney11/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY12
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney12/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY13
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney13/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY14
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney14/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY15
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney15/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY16
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney16/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY17
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney17/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY18
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney18/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY19
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney19/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY20
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney20/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY21
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney21/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY22
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney22/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY23
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney23/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY24
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney24/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY25
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-origin=https://streamdz1.xyz
+#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ja.livestreamdz.xyz/disney25/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
