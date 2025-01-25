@@ -1,23 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz,https://www.open-epg.com/files/chile2.xml.gz"
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY2
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://ja.livestreamdz.xyz/disney2/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="DISNEY+ EVENTOS",DISNEY2
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTVLCOPT:http-origin=https://streamdz1.xyz
-#EXTVLCOPT:http-referrer=https://streamdz1.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://ja.livestreamdz.xyz/disney2/tracks-v1a1/mono.m3u8?md5=4f0O8IzRJYrKngg0KCQ50Q&expires=1737750006
-
-
 Argentina - ⚽Pack Fútbol
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
