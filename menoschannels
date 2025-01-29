@@ -223,42 +223,26 @@ http://190.11.130.46/mnp/cn23/output.mpd
 
 gran hermano
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fHz2EQodSu6BTklsp6OqLQ","k":"1y6eBolxwMv27uN5EGd11Q"},{"kty":"oct","kid":"3n197Ui0N9aRlmrNyKlyYg","k":"DRHMXVAueJSzZKS3yqu_9A"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000341/index_fk.mpd?|Origin="android_mobile.directvgo.com"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfbfsbvhSK2XV9fw1_c65w","k":"a0IfFxHEsTQYHScGbloHtw"},{"kty":"oct","kid":"lVFVkIWENIiHa0cs1UFgAA","k":"wSwvs6diLmOxz5nCLGBNPQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano cámara 1
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000342/index_fk.mpd?|Origin="android_mobile.directvgo.com"
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 1
+https://dnslivetv.online/live/Gold2525/Gold2525/1187198.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rUZcQoUbRMyoTwambDOuWw","k":"U_tkaRfJFDm3wA0bR7HbxA"},{"kty":"oct","kid":"IGuij2kfNPiNiIbMQnAsTA","k":"eDC2kkFqQT4fMfuBo733Ug"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Cámara 2
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000343/index_fk.mpd?|Origin="android_mobile.directvgo.com"
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 2
+https://dnslivetv.online/live/Gold2525/Gold2525/1187198.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"a5R84Jf6TlGHXRWouLWBoA","k":"WGcZTy86VNw32RbWyH5V7Q"},{"kty":"oct","kid":"zZlB53_GMQCYas3La8umYQ","k":"16vFV9VGXvMKiQZJPs5A-g"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Cámara 3
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000340/index_fk.mpd?|Origin="android_mobile.directvgo.com"
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 3
+https://dnslivetv.online/live/Gold2525/Gold2525/1187200.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AevBQH5MXCGIy7PkG5ichg","k":"FLm8r4XEK5hany4GQ_Uiyg"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Multi Cámara 
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000345/index_fk.mpd?|Origin="android_mobile.directvgo.com"
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 24hs
+https://dnslivetv.online/live/Gold2525/Gold2525/1187202.m3u8
 
-
+#EXTINF:-1 group-logo="https://i.ibb.co/Pmc16RC/Gran-Hermano-CL-jpg.webp" 
+#EXTINF:-1 tvg-id="Granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", group-title="Argentina Gran Hermano", Gran Hermano 24hs Opc2
+https://dnslivetv.online/live/Gold2525/Gold2525/1187201.m3u8
 
 deportes (100xx)
 
@@ -2622,5 +2606,1303 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:http-referrer=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------plutotv----------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/1200px-Pluto_TV_logo_2024.svg.png"  tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="PLUTO TV",Gu铆a de canales
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="PLUTO TV",Cine Estelar
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="PLUTO TV",Cine Acci贸n
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="PLUTO TV",Estrellas de Acci贸n
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="PLUTO TV",Adrenalina Freezone
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="PLUTO TV",Cine Comedia
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="PLUTO TV",Cine Drama
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="PLUTO TV",Cine Romance
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="PLUTO TV",Cine Suspenso
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="PLUTO TV",Cine Crimen
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="PLUTO TV",Cine Terror
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="PLUTO TV",Sci-Fi
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="PLUTO TV",Runtime TV y Pel铆culas
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png" group-title="PLUTO TV",Filmstream
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="PLUTO TV",Nuestro Cine
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="PLUTO TV",Cine Cl谩sico
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="PLUTO TV",Cine Familia
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="PLUTO TV",Paramount+ Presenta
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="PLUTO TV",CSI: Miami
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="PLUTO TV",NCIS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="PLUTO TV",Series
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="PLUTO TV",The Night Shift
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="PLUTO TV",Schitt's Creek
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="PLUTO TV",Younger
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png" group-title="PLUTO TV",Dramas Coreanos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="PLUTO TV",Series Latinas
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="PLUTO TV",Series Retro
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="PLUTO TV",Hechizada
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png" group-title="PLUTO TV",Los 脕ngeles de Charlie
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6487761d17f5e10008cbc000/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6489c45766e48500083cceb6/colorLogoPNG.png" group-title="PLUTO TV",Starsky & Hutch
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6489c45766e48500083cceb6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="PLUTO TV",MacGyver
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png" group-title="PLUTO TV",Beverly Hills 90210
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb93a1c111bc0008fe6f5b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png" group-title="PLUTO TV",Loco Por Ti
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6489c42e976ee90008547503/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="PLUTO TV",Los Tres Chiflados
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" group-title="PLUTO TV",The Ed Sullivan Show
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="PLUTO TV",Retro Cartoons
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="PLUTO TV",Novelas
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="PLUTO TV",Sin Tetas No Hay Para铆so
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="PLUTO TV",La Selecci贸n
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" group-title="PLUTO TV",Rock Story
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f159209fcc3800076ed4a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="PLUTO TV",Reality
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" group-title="PLUTO TV",MTV Drag
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64510d3ad3fdde00080951f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="PLUTO TV",MTV Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="PLUTO TV",MTV Classic
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="PLUTO TV",MTV Shore
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="PLUTO TV",MTV Con Mi Ex
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638693db857364000781b471/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="PLUTO TV",MTV Ridiculousness
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="PLUTO TV",MTV Teen Mom
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="PLUTO TV",MTV Catfish
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="PLUTO TV",Competencias
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="PLUTO TV",Iron Chef
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="PLUTO TV",MasterChef
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64bed7005dc16600089b84e9/colorLogoPNG.png" group-title="PLUTO TV",MasterChef Junior
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64bed7005dc16600089b84e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="PLUTO TV",Hells Kitchen
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="PLUTO TV",Minuto Para Ganar
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" group-title="PLUTO TV",Boom
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="PLUTO TV",Wipe Out
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png" group-title="PLUTO TV",Desaf铆o Super Humanos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495af324c014a000842e923/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="PLUTO TV",Naturaleza
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="PLUTO TV",Paisajes por Stingray
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="PLUTO TV",Animales
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="PLUTO TV",El Encantador de Perros
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="PLUTO TV",Aventura
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="PLUTO TV",Ice Pilots
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="PLUTO TV",Velocidad
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="PLUTO TV",Obsesi贸n por los Autos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="PLUTO TV",Motorvision TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="PLUTO TV",Vida Real
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="PLUTO TV",COPS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="PLUTO TV",Dog el cazarrecompensas
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="PLUTO TV",Empe帽os a lo bestia
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="PLUTO TV",Mi Obsesi贸n Favorita
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="PLUTO TV",Misterios Medicos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="PLUTO TV",Misterios
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="PLUTO TV",Historias de Ultratumba
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="PLUTO TV",Archivos Extraterrestres
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="PLUTO TV",Smithsonian Channel
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="PLUTO TV",Historia
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="PLUTO TV",Ciencia
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="PLUTO TV",Investiga
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="PLUTO TV",Cazador de Homicidas
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="PLUTO TV",Los archivos del FBI
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="PLUTO TV",Archivos Forenses
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="PLUTO TV",The New Detectives
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="PLUTO TV",Misterios sin Resolver
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" group-title="PLUTO TV",CBS News
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="PLUTO TV",Euronews Espa帽ol
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="PLUTO TV",TeleF贸rmula
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="PLUTO TV",Claro Sports en Vivo
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="PLUTO TV",TV Azteca Deportes Network
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6582f002a620e3000813b329/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="PLUTO TV",Deportes
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="PLUTO TV",ITV Deportes
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="PLUTO TV",FUEL TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="PLUTO TV",Peleas
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="PLUTO TV",Lucha Libre AAA
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="PLUTO TV",Comedy Central South Park
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="PLUTO TV",Daria
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="PLUTO TV",La Familia del Barrio
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="PLUTO TV",Humor
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="PLUTO TV",Comedy Central
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" group-title="PLUTO TV",Backdoor
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc8684bf50b00074a46b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="PLUTO TV",FailArmy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="PLUTO TV",The Pet Collective
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb907651f5d000085e4778/colorLogoPNG.png" group-title="PLUTO TV",Best of The Drew Barrymore Show
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb907651f5d000085e4778/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="PLUTO TV",Nosey Esc谩ndalos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492ee6375a3900079a158c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png" group-title="PLUTO TV",Teatrix
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63ceb6ff60bc8f00088dc625/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="PLUTO TV",Telefe Hits
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="PLUTO TV",Chilevision Contigo
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="PLUTO TV",Viajes
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/thumbnail.jpg" group-title="PLUTO TV",Hogar
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="PLUTO TV",Cocina
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="PLUTO TV",Recetas
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="PLUTO TV",Tastemade
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="PLUTO TV",Fashion Stream
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63974ebedcd9100008c2f59c/colorLogoPNG.png" group-title="PLUTO TV",Fashion TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63974ebedcd9100008c2f59c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="PLUTO TV",Anime
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="PLUTO TV",Anim茅 Acci贸n
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="PLUTO TV",Naruto
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="PLUTO TV",Naruto Shippuden
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="PLUTO TV",Death Note
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="PLUTO TV",Yu-Gi-Oh
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="PLUTO TV",Captain Tsubasa
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" group-title="PLUTO TV",Beyblade
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632119a92c3b880007d3f5dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="PLUTO TV",One Piece
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="PLUTO TV",Tokusato
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="PLUTO TV",E-Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="PLUTO TV",ESR 24/7
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="PLUTO TV",Nick Teen
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="PLUTO TV",Nickelodeon iCarly
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="PLUTO TV",Kenan y Kel
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="PLUTO TV",Teen
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" group-title="PLUTO TV",PAW Patrol Patrulla de Cachorros
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="PLUTO TV",Nick Jr. Club
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="PLUTO TV",Las Pistas de Blue
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="PLUTO TV",Baby Shark TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="PLUTO TV",Babyfirst
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="PLUTO TV",Junior
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="PLUTO TV",Barney
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="PLUTO TV",Babar
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="PLUTO TV",El Reino Infantil
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="PLUTO TV",Nickelodeon Cl谩sico
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="PLUTO TV",Rugrats
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="PLUTO TV",Nickelodeon Rocket Power
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202ab549654c800076ee13f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="PLUTO TV",Nickelodeon
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="PLUTO TV",Bob Esponja Pantalones Cuadrados
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG.png" group-title="PLUTO TV",Los Padrinos M谩gicos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="PLUTO TV",Las Tortugas Ninja
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="PLUTO TV",Kids
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="PLUTO TV",Anime Kids
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636e83511fa9600007e5ae19/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="PLUTO TV",MTV Biggest Pop
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="PLUTO TV",MTV Spankin' New
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="PLUTO TV",MTV Flow Latino
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="PLUTO TV",Conciertos por Stingray
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="PLUTO TV",Karaoke por Stingray
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------peliculas-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+#EXTINF:-1,tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/tshllXJDIctUlD1kMPQdIh37L2V.jpg",Argylle: agente secreto (2024)
+https://dl.dropbox.com/scl/fi/t6rijs8arxg8yryc0jovi/4rgy.mp4?rlkey=hrx9ustmmc7zisfpqfdsxxuoj
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/NYBfrtt/road.jpg",Casa de carretera (2024)
+https://dl.dropbox.com/scl/fi/omir5ir4001n3xyvhhnu6/R0AD-H0US3.mp4?rlkey=dnpz2b15z29ewsak8lpz7d6z2
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/pLk6bgj/LIFT.jpg",Lift: un robo de primera clase (2024)
+https://dl.dropbox.com/scl/fi/vxwei9jj6c990nxrd47p8/L1FT.mp4?rlkey=8rrpvrkr6pdk94qme2zleiy0a
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YdRDbbH/equ3.jpg",El Justiciero: Capitulo Final (2023)
+https://dl.dropbox.com/scl/fi/a6gz9cts85xa4wvki7usf/1_5030746742002287483.mp4?rlkey=botny91agmlxhh0sn1ebawmtu
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1vFzXN/equ2.jpg",El Justiciero 2 (2018)
+https://dl.dropbox.com/scl/fi/gkoqnxnlmlwyopl2ubt8i/JUST1C13R0-2.mp4?rlkey=jnidloytjzzo9dirigmh3b8a6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3vXhCm/equ1.jpg",El Justiciero (2014)
+https://dl.dropbox.com/scl/fi/k3keowv5cy43hg4pumv4f/JUST1C13R0-1.mp4?rlkey=dbk8nljy6mxa529b8y9kxa6so
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wr946rm/indiana5.jpg",Indiana Jones 5 (2023)
+https://dl.dropbox.com/scl/fi/lkripk0qmmnuan0j7y06g/1nd14n4.mkv?rlkey=baf29h38vu1fyypzi1nu6fwe9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSNQPpm/ext2.jpg",Misi贸n Rescate 2 (2023)
+https://dl.dropbox.com/s/ohbgz776mnv8f7u/extrac2.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/lagranpor/lagranpor.png",La Gran Muralla (2016)
+https://dl.dropbox.com/s/mn8wtasq82xrken/342536476587912344.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CMzr3b1/PIRATAS-DEL-CARIBE-EL-COFRE-DE-LA-MUERTE.jpg",Piratas del Caribe 2 - El cofre de la muerte
+https://dl.dropbox.com/s/doxveva3t27as0i/Pirates.of.the.caribbean.dead.mans.chest.2006.1080p-dual-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMPff2B/PIRATAS-DEL-CARIBE-EN-EL-FIN-DEL-MUNDO.jpg",Piratas del Caribe 3 - En el fin del mundo
+https://dl.dropbox.com/s/vzv0dsmu8uoynui/Pirates.of.the.caribbean.at.worlds.end.2007.1080p-dual-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B68RmWR/Bumblebee.jpg",Bumblebee (2018)
+https://dl.dropbox.com/s/mhdmidynlqg5xir/bumblebee%20%282018%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1f2dXjb/beast.jpg",Transformers: el despertar de las bestias (2023)
+https://dl.dropbox.com/scl/fi/exw7880te9rw4l12779gm/D3SP3RT4RB34ST.mp4?rlkey=gkz38rhid6tej9k5rt06wexs9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKpjp7D/La-Momia-2017.jpg",La momia (2017)
+https://dl.dropbox.com/s/baipaq04q2imj5g/l4m0m14.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/guy_ritchie_s_the_covenant-145554066-large.jpg",El Pacto
+https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/The.Covenant.2023.DVDRip-Lat.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kSNQPpm/ext2.jpg",Misi贸n Rescate 2 (2023)
+https://dl.dropbox.com/s/ohbgz776mnv8f7u/extrac2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QbGPvgv/gods.jpg",Junto con los Dioses: Los Dos Mundos
+https://archive.org/download/junto-a-los-dioses/hola/Junto%20a%20los%20dioses.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KPQ3gQ/shan1.jpg",Ni帽o de Shangai (2000)
+https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/Shangha41_Kid___del_este_al_oeste_HD__720p___1123111.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yz5PM2/shan2.jpg",Shangai ni帽o 2 (2003)
+https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/Shangh41_Kid_en_Londres_DVDRip__1139272.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dkhTDX0/rival.jpg",M谩ximo Rival (1999)
+https://ia801608.us.archive.org/8/items/c-4rs-hd-720p-699968/M_ximo_rival_DVDRip__1094396.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gd4vc0Z/police.jpg",Nueva historia policial (2004)
+https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/New_Policia_Story_DVDRip__1420285.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/posterpolicia/poster%20policia.png",Historia policial/Police History (1985)
+https://archive.org/download/refrigeradora/refrigeradora.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X47XGZ/timecop.jpg",Timecop Polic铆a en el tiempo (1994)
+https://ia601505.us.archive.org/12/items/4_20210301/8%20nov/5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r4VJVh1/soldado-universal-universal-soldier.jpg",Soldado Universal (1992)
+https://ia601507.us.archive.org/10/items/bfrbc/54ib5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9Hnrmm/soldado-universal2.jpg",Soldado Universal 2: (1998)
+https://ia601507.us.archive.org/23/items/uhu_20191207/uhu.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sn7gXKw/soldado-universal-3-tres-regeneracion-van-damme.jpg",Soldado Universal 3: Regeneraci贸n
+https://ia601507.us.archive.org/23/items/uhu_20191207/ughp.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QrzqTmF/Soldado-universal-4-el-juicio-final.jpg",Soldado Universal 4: El Juicio Final
+https://ia601507.us.archive.org/23/items/uhu_20191207/82b57.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxRz7G6/colombiana.jpg",Colombiana: Venganza despiadada (2011)
+https://ia601601.us.archive.org/28/items/colomb-despiad-dvdrip-1067181/ColombDespiad__DVDRip__1067181.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg2NWNhOWItYjA3Yi00MzhhLTg4ZmItYzM3ZTIwN2U0ZGQ5XkEyXkFqcGdeQXVyMzEyMDQzNzY@._V1_FMjpg_UX1000_.jpg",noche sin paz
+https://archive.org/download/fi_20230106/Noche%20Sin%20Paz.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8lECLNHMOR3JB9Yon_GogmYXBHukXADUMOaiToqHbSrd0gkzr",la mujer rey
+https://archive.org/download/casa-en-el-lago/87234--bfc7cfbc-00d6-4215-96b3-11b7cd22863a--rdmy--813453-streamsb.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/eeeee_202302/__ia_thumb.jpg",Devoci贸n (2022)
+https://archive.org/download/devotion-720p-dual-1.4-gb/Devotion%20720p%20DUAL%201.4%20GB.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/glad_20230202/glad.jpg",Gladiador (2000)
+https://archive.org/download/026_20200428/026.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDRHzSm/Free.jpg",Chico libre (2021)
+https://archive.org/download/manguera_20210927/_Fr33%205uy.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XF0YW2/Punto-de-Quiebre-2014.jpg",Punto de Quiebre (1991)
+https://archive.org/download/sciyt/Mhuc/pqk.avi
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/926j4wnskRBMtWJuR4bCrlKb1ZF.jpg",EL CUERVO (1994)
+https://dl.dropbox.com/s/nw9b7sdrknpxrv8/EL%20cuervo%20de%20brandon%20lee.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/boupe/boupor.png",El caso Bourne (2002)
+https://archive.org/download/boupe/boupe.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/lasubo2004/thebosupo.png",La supremacia Bourne (2004)
+https://archive.org/download/lasubo2004/lasubo2004.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/lasubo2004/theboulpor.png",El ultim谩tum de Bourne (2007)
+https://archive.org/download/lasubo2004/ulbo2007.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/mortal-kombat-2_202106/Mortal%20Kombat%202.jpg",Mortal Kombat 2
+https://archive.org/download/mortal-kombat-2-anihilation/Mortal%20Kombat%202%20ANIHILATION.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fppTNtm/Resident-evil-2-Apocalipsis.jpg",Resident Evil 2: Apocalipsis
+https://archive.org/download/6_20200518_20200518/2.MP4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SmxJm6W/Resident-evil-3-Extinsion.jpg",Resident Evil 3 : Extinci贸n
+https://archive.org/download/6_20200518_20200518/3.MP4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9YckS9/Resident-evil-4-Resurrecion.jpg",Resident Evil 4 : Resurrecci贸n
+https://archive.org/download/6_20200518_20200518/4.MP4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNBJsLG/Resident-evil-5-La-venganza.jpg",Resident Evil : 5 La venganza
+https://archive.org/download/6_20200518_20200518/5.MP4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7121sq/Resident-evil-6-Capitulo-Final.jpg",Resident Evil 6 : Cap铆tulo Final
+https://archive.org/download/6_20200518_20200518/6.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/el-rey-escorpion-caratula/el%20rey%20escorpion%20caratula.jpg",El REy Escorpi贸n
+https://archive.org/download/el-rey-escorpion_202204/el%20rey%20escorpion.avi
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/srhQeDr0n53IV5xAfee4xwJMSPr.jpg",Ong Bak (2003)
+https://archive.org/download/onpe_20211224/onpe.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/plvWFyL4tQXgWOae0P8A4hECWLD.jpg",007 - Ojo dorado (1995)
+http://archive.org/download/mio53_yopmail_3/3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SNDknx3/007-El-ma-ana-nunca-muere.jpg",007 - El ma帽ana nunca muere (1997)
+http://archive.org/download/mio53_yopmail_2/2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mnX3Gn/007-El-mundo-no-basta.jpg",007 - El mundo no basta (1999)
+http://archive.org/download/mio53_yopmail_1/1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPr2MWy/007-Otro-da-para-morir.jpg",007 - Otro d铆a para morir (2002)
+http://archive.org/download/mio53_yopmail_4/4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRz69dL/007-Casino-Royale.jpg",007 - Casino Royale (2006)
+http://archive.org/download/mio53_yopmail_5/5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q7xTWWF/007-Quantum.jpg",007 - Cu谩ntico (2008)
+http://archive.org/download/mio53_yopmail_6/6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWVfFWK/007-STMORI.jpg",Sin tiempo para morir (2021)
+https://dl.dropbox.com/s/45nj1xweci2ti86/007%20S1N%20T1EMP0%20M0R1R.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/rendirse-jamas/Rendirse%20Jamas.jpg",Rendirse Jamas
+https://archive.org/download/rendirse-jamas-never-back-down/Rendirse%20Jamas%20%28Never%20Back%20Down%29.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4jSfvZp/MANNFIRE.jpg",Hombre en llamas (2004)
+https://dl.dropbox.com/s/xrqjpg81h66ubeq/M4N%201N%20F1R3.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TTCVJfH/Pearl-Harbor.jpg",Pearl Harbor
+https://archive.org/download/038_20200504/038.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RHX3n3w/Mulan-2020.jpg",Mulan(2020)
+https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gS6Zdk5/LOSERS.jpg",Los perdedores (2010)
+https://dl.dropbox.com/s/7rdipab957avh4b/TH3L0S3R.avi
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/kiss-dragon/20203215.jpg",EL BESO DEL DRAGON
+https://archive.org/download/kiss-dragon/Kiss%20Dragon.avi
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/l6bCO7BhJJCQehaEqHc4fx80kiG.jpg",Jackie Brown (1997)
+https://archive.org/download/gaseosa/gaseosa/gaseosa.avi
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/rZuCZ4o77Tct0EEYV4CfTTtYj4z.jpg",Bastardos sin gloria (2009)
+https://archive.org/download/chocolate_202004/chocolate/chocolate.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/naaYX64yMGzEFsATOFQDaxxQWbJ.jpg",Django Desencadenado (2012)
+https://archive.org/download/maiz23/maiz/maiz%2023.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cjyGCKyEZKhZF2YkqxyzrfoeKoL.jpg",Apocalypto (2006) Dialecto Maya
+https://dl.dropbox.com/s/ewmka7ezyxmojqe/4p0c4lypt0.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/apopor/apopor.png",Apocalipto (2006)
+https://archive.org/download/picante_202003/picante/picante.mp4
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/ay90WBc6vrC7IYneuuyAS00hw2F.jpg",Yojimbo (1961) Doble
+https://archive.org/download/faraon/faraon/faraon.mkv
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/3_20201017_20201017_1926/Today/4.1.png",Venganza Bajo Cero (2019)
+https://archive.org/download/3_20201017_20201017_1926/Today/4.mp4
+
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/dredd-352014139-large/Dredd-352014139-large.jpg",Dredd (2012)
+https://archive.org/download/dredd_202110/184%20Dredd%20-%20PelisandSeries.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qJYc6v3/jolt.jpg",Jolt (2021)
+https://archive.org/download/carros_20220107/J01t.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDQq8GP/alerta.jpg",Alerta Roja (2021)
+https://archive.org/download/alerta-roja_20211120_1822/ALERTA%20ROJA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4F6Lcbb/gladiator.jpg",Gladiador El Desafio Comienza (1992)
+https://archive.org/download/gladiator-el-desafio-comienza/Gladiator%20El%20Desafio%20Comienza.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YjvjSf/60-Segundos.jpg",60 Segundos (2000)
+https://archive.org/download/035_20200504/035.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Mgjw64/Acceleration.jpg",Aceleraci贸n (2019)
+https://dl.dropboxusercontent.com/s/lvmdx920raodlpm/Acceleration.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykmsyPV/Ahora-son-13.jpg",Ahora hijo 13 (2007)
+https://archive.org/download/jois_20200512/MWREN/3%20stf.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssVJBbd/Arma-Mortal1.jpg",Arma mortal 1 (1987)
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHYWxzm/Arma-Mortal3.jpg",Arma mortal 3 (1992)
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l%203.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6bQ8nr/g-Bgu-H1-Dpup8a16x-TD9b2-MRJ4lvf.jpg",Ava (2020)
+https://archive.org/download/manjaro-linux/Ava%20%282020%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yqGNQs8/Caza-mayor-2014.jpg",Caza alcalde (2014)
+https://dl.dropbox.com/s/9mjltgzxtz9v8w3/Caza%20Mayor.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/30Gb40r/Comando.jpg",Comando (1985)
+https://archive.org/download/comando_202004/Comando.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VMsMQbC/Danny-the-Dog.jpg",Danny el perro (2005)
+https://archive.org/download/thdg_20200308/dn%20th%20dg/thdg.avi
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Carrera de la Muerte" tvg-logo="https://pics.filmaffinity.com/death_race-510781879-large.jpg",Carrera de la Muerte ( 2008)
+https://archive.org/download/100006_201909/100006.wmv
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Death Race 2" tvg-logo="https://storage.googleapis.com/isnottv_cine/lv_seo_items/lv_549582b7af06c4bebc7078fb72341ed6_420.jpg",Death Race 2 (2010)
+https://archive.org/download/10007_202002/10007.wmv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHR5NjP/El-Gran-Asalto.jpg",El gran asalto (2018)
+https://archive.org/download/22b4l42/211.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDQd1Zt/El-Marine.jpg",El Marino 1 (2006)
+https://archive.org/download/elmari2dvdlat/mrne/elmari1dvdlat.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PW958C1/El-Marine-2.jpg",El Marino 2 (2009)
+https://archive.org/download/elmari2dvdlat/mrne/elmari2dvdlat.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzqHKf9/El-Marine-3.jpg",El Marino 3 (2013)
+https://archive.org/download/elmari2dvdlat/mrne/elmarin3dvdlat.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsSdjY6/El-Marine-4.jpg",El Marino 4 (2015)
+https://archive.org/download/elmari2dvdlat/mrne/elmarin4dvdlat.avi
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/furia-en-2-ruedas/Furia%20en%202%20ruedas.jpg",Furia en dos Ruedas (2004)
+https://archive.org/download/furia-en-2-ruedas_202104/Furia%20En%202%20Ruedas.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygbhg7v/Hombres-dementes.jpg",Hombres de mentes (2009)
+https://archive.org/download/kohbn/ptol/mkpoij.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rp55v6f/Hostiles.jpg",Hostiles (2017)
+https://dl.dropbox.com/s/kbq46mfizyo9pr5/HOSTILES.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK5hFbd/IP-man.jpg",Ip Man (2008)
+https://archive.org/download/7823964/1231230001.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7vDJ3yR/IP-man-2.jpg",Ip Man 2 (2010)
+https://archive.org/download/7823964/1231230002.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f8qLBjr/IP-man-3.jpg",Ip Man 3 (2015)
+https://archive.org/download/7823964/1231230003.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBWC10y/IP-man-4.jpg",Ip Man 4 (2019)
+https://archive.org/download/7823964/1231230004.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/jack-reacher-nunca-vuelvas-atras/Jack%20Reacher%20Nunca%20vuelvas%20atras.jpg",Jack Racher Nunca Vuelvas Atras (2016) )
+https://archive.org/download/jack-reacher-2-nunca-vuelvas-atras/Jack%20Reacher%202%20Nunca%20Vuelvas%20Atras.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G271knf/Karate-Kid1.jpg",Karate Kid (1984)
+https://archive.org/download/karatekid1/Karate%20Kid%201.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fkCBDnY/Karate-kid2.png",Karate Kid - Parte II (1986)
+https://archive.org/download/karatekid1/Karate%20Kid%202.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/przc51T/Karate-Kid3.jpg",Karate Kid - Parte III (1989)
+https://archive.org/download/karatekid3_202004/Karate%20Kid%203.avi
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qQ1U57QWVaxVcUXoqz4dco7sftJ.jpg",Karate Kid - Parte IV El pr贸ximo Karate Kid(1994)
+https://archive.org/download/juka_20221228/juka.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/lfj709InbmljVqAXgUk2qjnujNN.jpg",Kill Bill vol.1 (2003)
+https://archive.org/download/agridulce1/agridulce/agridulce%201.avi
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg",Kill Bill vol.2 (2004)
+https://archive.org/download/chicle/chicle/chicle.avi
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/lod_20210405/lod.png",La fuerza de la naturaleza (2020)
+https://archive.org/download/52_20210405/52.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HRF9gb/LA-gran-estafa.jpg",La gran estafa (2001)
+https://archive.org/download/kohbn/ptol/wsde.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0D1nJwt/La-tierra-y-la-sangre.jpg",La tierra y la sangre (2020)
+https://archive.org/download/1_20200428/1.2/3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7k8Rpb9/legend.jpg",Leyenda: profesi贸n de la violencia (2015)
+https://archive.org/download/pssi_20200515/fryu/llendale.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcHKNnX/Mexican-Gangsters.jpg",G谩nster Mexicano (2013)
+https://archive.org/download/solf-12/onai/mgs.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/86FWFvw/Assasins-Creed.jpg",Assasins Creed
+https://ia601509.us.archive.org/32/items/nhu9tdftu/cvovcc.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NyPn4B4/ms1.jpg",MS1 MAxima Seguridad Prisionera del Espacio (2012)
+https://ia601505.us.archive.org/12/items/4_20210301/8%20nov/3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0NsVnW/Blood-and-Bone.jpg",Pu帽os Mortales (2009)
+https://archive.org/download/040_20200504/040.avi
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/mlH5Fm86tr7Q0NdKskVY6rZb5W3.jpg",R谩pidos y Furiosos (2001)
+https://archive.org/download/pi_20221228/pi.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nc1xXqn/Mas-Rapidos-mas-furiosos.jpg",Rapidos y Furioso 2: M谩s R谩pido y m谩s Furioso (2002)
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPL7fv2/Rapidos-y-furiosos-Reto-Tokyo.jpg",R谩pido y furioso 3: Reto Tokio (2006)
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg",R谩pidos y furiosos 4 (2009)
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sCbQfF/Rapidos-Y-Furiosos-Sin-Control.jpg",R谩pidos y furiosos 5: Sin control (2011)
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2005.MP4
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",R谩pidos y Furiosos 6 (2013)
+https://archive.org/download/vue_20221230/vue.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/hO02IBZmvbn2RULu4myYVl2NUGj.jpg",R谩pidos y Furiosos 7 (2015)
+https://archive.org/download/alt_20221231/alt.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg",R谩pidos y Furiosos 8 (2017)
+https://archive.org/download/agi_20221231/agi.mkv
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/AmIfHhFWSJioozbYFcRXOAvMRsx.jpg",R谩pidos y Furiosos 9 (2021)
+https://archive.org/download/tecli/tecli.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZvQC2y/Pstr-1-1.jpg",Rapidos y Furiosos X (2023)
+https://dl.dropbox.com/s/0dushmny5bad43p/f45stX.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z22p6HQ/Sangre-Por-Sangre.jpg",Sangre Por Sangre (1993)
+https://archive.org/download/sang_20200511/Sang/Sang.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vsTV8f1/Taxi-2.jpg",Taxi 2 (2000)
+https://archive.org/download/taxderni/Tax2Cast.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2Y5tCS/Taxi-3.jpg",Taxi 3 (2003)
+https://archive.org/download/taxderni/Tax3Cast.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTP9VNC/T4xi.jpg",Taxi 4 (2007)
+https://archive.org/download/taxderni/Tax4Cast.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VW0ngd/Taxi-Express.jpg",Taxi Expreso (1998)
+https://archive.org/download/taxderni/Tax1Cast.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B3pZ2nx/Terremoto-La-Falla-de-san-Andres.jpg",Terremoto: La falla de San Andr茅s (2015)
+https://archive.org/download/00100_20190920_0442/00100.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sVvwm6z/Un-Detective-Suelto-Hollywood.jpg",Un detective suelto en Hollywood (1984)
+https://archive.org/download/789456_202003/789456_0101.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgQLtTN/Un-detective-suelto-en-Hollywood-2.jpg",Un detective suelto en Hollywood II (1987)
+https://archive.org/download/789456_202003/789456_0102.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/18TNDpM/Un-detective-suelto-en-Hollywood-3.jpg",Un detective suelto en Hollywood III (1994)
+https://archive.org/download/789456_202003/789456_0103.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vh6qcXp/V-De-Venganza.jpg",V De Venganza (2005)
+https://archive.org/download/vdv_20200409/VDV.avi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nfM85gx/hh.jpg",El chico blanco rick (2018)
+https://archive.org/download/7at_20200608/wht/wby.avi
+
+
+#EXTINF:-1 group-title="|CINE 2023|"  tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",El Justiciero 3 cap铆tulo final
+http://208.88.245.85/nuevo/el.justiciero3.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xM1yX980L50kjyGuvhykkz4utry.jpg",Hasta la madre! del D铆a de los muertos (2023)
+http://208.88.245.85/nuevo/hastalamadre.del.diademuertos.latino2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|"  tvg-logo="https://image.tmdb.org/t/p/w500/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg",El negocio del dolor (2023)
+http://208.88.245.85/nuevo/el.negocio.deldolor.dual20223.mkv
+#EXTINF:-1 group-title="|CINE 2023|"   tvg-logo="https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg",Tortugas Ninja: Caos mutante (2023)
+http://208.88.245.85/nuevo/tortugasninja.caos.mutante.dual.2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|"   tvg-logo="https://image.tmdb.org/t/p/w500/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",Me vuelves loca (2023)
+http://208.88.245.85/nuevo/m.vuelves.loca.latino2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/muDaKftykz9Nj1mhRheMdbuNI9Z.jpg",Hijos De Perra (2023)
+http://208.88.245.85/nuevo/hijos.de.perra.dual2023.mkv
+#EXTINF:-1  group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg",Monster high 2
+http://208.88.245.85/nuevo/monsterhigh.dual.2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/xM1yX980L50kjyGuvhykkz4utry.jpg",Hasta la madre del d铆a de muertos 
+http://208.88.245.85/nuevo/hastalamadre.del.diademuertos.latino2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg",Papas a la antigua
+http://208.88.245.85/nuevo/papas.ala.antigua.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/okNxsEpMbCQgQBqSw2U5hIq4Fd5.jpg",Materia gris
+http://208.88.245.85/nuevo/materiagris.dual.2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/rhNmY4Djv4273A1TktDCEaOwHIz.jpg",Scary Girl
+http://208.88.245.85/nuevo/scarygirl.dual.2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/2NYd7jKFnilcIOUfDI8o2TOuCmu.jpg",La hija del prisionero 
+http://208.88.245.85/nuevo/la.hija.del.prisionero.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/30we4NrF5F1FcBDklBGXvCDn1pG.jpg",Una verdadera familia embrujada
+http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",THE  burial
+http://208.88.245.85/nuevo/the.burial.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/fWsuqZ5kk5rYeWVXpjrHercEBNH.jpg",Invitaci贸n a un asesino
+http://208.88.245.85/nuevo/invitacion.a.un.asesinato.latino2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg",Paw patr贸n la.super pel铆cula 
+http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/gmZGAbI42ecAoixyvZI0Se4Qiau.jpg",Finnck
+http://208.88.245.85/nuevo/finnick.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg",Cementerio de mascotas
+http://208.88.245.85/nuevo/cementerio.mascotas.elorigen.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg",Los indestructibles 4
+http://208.88.245.85/nuevo/los.indestructibles4.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/duv6wtHMuN74HF7UuLjvUUrn8dB.jpg",Un sorbo fr铆o  asesinato de Jessica Won
+http://208.88.245.85/nuevo/un.sorbo.frio.asesinato.de.jessicawon.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg",Scooby crypto al rescate
+http://208.88.245.85/nuevo/scooby.ykrypto.alrescate.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="La oscuridad de la luz del mundo",La oscuridad de la luz del mundo
+http://208.88.245.85/nuevo/la.oscuridad.delaluz.del.mundo.latino2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/soIgqZBoTiTgMqUW0JtxsPWAilQ.jpg",Reptiles
+http://208.88.245.85/nuevo/reptiles.dual2023.mkv
+
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",Spy kids armagedon
+http://208.88.245.85/nuevo/spykids.armagedon.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/6cZbQppNSELFdsV7gvrOflL6DWK.jpg",Quieres ser mi hijo 
+http://208.88.245.85/nuevo/quieres.ser.mi.hijo.lat2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",Cassandro
+http://208.88.245.85/nuevo/casandro.2023dual.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/516MFML05KWiPfiQNAsVCGMySc7.jpg",El rencor de edimburgo parte 2
+http://208.88.245.85/nuevo/el.rencor.de.edimburgo.part2.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/nQG3HhzRnr26e0O0yuTeXqnVGbn.jpg",Las cintas de rosa peral
+http://208.88.245.85/nuevo/las.cintas.de.rosaperal.cast2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/kMI3tgxLAZbzGOVlorUBva0kriS.jpg",A millones de kil贸metros 
+http://208.88.245.85/nuevo/a.millones.de.kilometros.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",Retribuci贸n contra reloj
+http://208.88.245.85/nuevo/retribution.contrareloj.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",Sonido de libertad
+http://208.88.245.85/nuevo/sonido.de.libertad.2023dual.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",Me vuelves loca
+http:/208.88.245.85/nuevo/m.vuelves.loca.latino2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg",Teen mutant ninfa turtles mayhem
+http://208.88.245.85/hd/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/4EONm3medZBNfHhost4taqrje1r.jpg",La gran seducci贸n 
+http://208.88.245.85/nuevo/la.gran.seduccion.2023.latino.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/2aBjSNnl1eIsR8RVNlczc1beL6l.jpg",Los casi 铆dolos de bah铆a colorada
+http://208.88.245.85/nuevo/los.casi.idolos.de.bahia.colorada.latino2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",Dracula mar de sangre
+http://208.88.245.85/nuevo/dracula.mar.de.sangre.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/7KK4s4QOYemq1fC9stcdZbhIiVm.jpg",Isabel el caso nardoni
+http://208.88.245.85/nuevo/isabella.el.caso.nardoni.dual.2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/6qR9WbXYIddZcVk6nxFULfHcKmK.jpg",脕guila y Jaguar
+http://208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones and the dial of Destiny
+http://208.88.245.85/nuevo/indianajones5.latino.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg",El final que quiero
+http://208.88.245.85/nuevo/el.final.que.quiero.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg",El sal贸n de la infamia 
+http://208.88.245.85/nuevo/untolld.el.salon.dla.infamia.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg",Amigos de las vacaciones 2
+http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg",Blue beetle
+http://208.88.245.85/nuevo/bluebeetle.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/e7CKgRnRdE7bk1jl2vhJniX89cU.jpg",Al descubierto Johnn football
+http://208.88.245.85/nuevo/al.descubierto.johnnyfootball.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg",Zoey 102 la boda
+http://208.88.245.85/nuevo/zoey102.laboda.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/lFDPyo6mdooNcHvgy17gz1GEjg4.jpg",Snoopy presenta
+http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/q17tXNROOslj7uCGicKNlIf9Rx6.jpg",Princesas lego Disney aventuras
+http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",Meg 2 el gran abismo
+http://208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",Blue Beetle (2023) CAM
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FWatch%20Blue%20Beetle%202023%201080p%20CAMRip%20LAT%20DUB%20mp4.mp4
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/gvtMN1IWBqqPYYlPy2saWaPbmP9.jpg",Blue Beetle
+https://archive.org/download/01_20230818/01.mp4
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",Cuando termines de salvar al mundo
+http://208.88.245.85/nuevo/cuando.termines.dsalvar.almundo.2023dual.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/p4U0DQdxK7VeFImi2gzFKhe1JuB.jpg",Los habitantes
+http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/qMgx4ofxWNqgXliRyXGXImoA7vX.jpg0",Dime lo que quieres
+http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg",Divina se帽al
+http://208.88.245.85/nuevo/divina.senal.latino2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppen heimer
+http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/wve9qIZ8pXrDpHy1h47cGXHjZpH.jpg",Los 3 mosqueteros dartagnan
+http://208.88.245.85/nuevo/los.tres.mosqueteros.dartagnan.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg",Hazme el favor
+http://208.88.245.85/nuevo/hazme.el.favor.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg",Agente Stone
+http://208.88.245.85/nuevo/agentestone.dual2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/995t1sb4ummXHBfKlXLSM1IAEjc.jpg",Fisrt solamente dunk
+http://208.88.245.85/nuevo/firstslamdunk.dual.2023.mkv
+#EXTINF:-1 group-title="|CINE 2023|" tvg-logo="https://image.tmdb.org/t/p/w500/3gFtw4w2bIUYKWOrmBgfI6iXfmZ.jpg",Mansi贸n embrujada
+http://208.88.245.85/nuevo/mansion.embrujada.dual2023.mkv
+
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qmevjlNDaWoEughGlXFWHbQ4TaR.jpg",La liga de la justicia mundo b茅lico 
+http://208.88.245.85/nuevo/ligadlajusticia.mundo.belico.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YDW8dCrQyRpppK5985hKY1Mc8X.jpg",La fiebre de los peluches
+http://208.88.245.85/nuevo/la.fiebre.dlos.peluches.beanie.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg",Proyecto extracci贸n 
+http://208.88.245.85/nuevo/proyecto.extraccion.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qmW8mPhcdOP3v36Gz8WEeDdewFN.jpg",La dama del silencio
+http://208.88.245.85/nuevo/la.dama.del.silencio.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",Barbie
+http://208.88.245.85/nuevo/barbie.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg",Shooting stars
+http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",El clon de tyrone
+http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg",La leyenda de los chaneques
+http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xFR8Sxvb1isO5UoMIWsXGs95fdk.jpg",Lionel Messi destiny
+http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Mission impossible
+http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg",Shooting stars
+http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",El clon de tyrone
+http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg",La leyenda de los chaneques
+http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xaZjJeFNKVq8rpd4ElSFlONVLh6.jpg",Lionel Messi destiny
+http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Mission impossible
+http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg", Todo sobre mi padre
+http://208.88.245.85/nuevo/todo.sobre.mipadre.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tcKBclNUdkas4Jis8RYYZnPdTIm.jpg",Asteroid city
+http://208.88.245.85/nuevo/asteroidcity.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer el dilema de la bomba at贸mica 
+http://208.88.245.85/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg",Amigos hasta la muerte
+http://208.88.245.85/nuevo/amigos.hasta.lamuerte.cast2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg",Insidiuos puerta roja
+http://208.88.245.85/nuevo/insidiuos.puertaroja.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg",Nimona
+http://208.88.245.85/nuevo/nimona.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",Suzume
+http://208.88.245.85/nuevo/suzume.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Suegros de armas tomar
+http://208.88.245.85/nuevo/suegros.dearmas.tomar.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lotWiuWuTGlQ94rzBdy6ZmKZnTA.jpg",Krakens y sirenas
+http://208.88.245.85/nuevo/krakensysirenas.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones 5
+http://208.88.245.85/nuevo/indianajones5.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",Reposo absoluto
+http://208.88.245.85/nuevo/reposo.absoluto.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg",El rey de los clones
+http://208.88.245.85/nuevo/rey.delos.clones.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9xvEhZZMOmLIkqe4khrtF5TkOnO.jpg",El mejor del mundo
+http://208.88.245.85/nuevo/el.mejor.delmundo.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",Ofrenda al demonio
+http://208.88.245.85/nuevo/ofrenda.aldemonio.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hAKV3WLdHOL313IImAoR2GFWC1W.jpg",Maquillame otra vez 
+http://208.88.245.85/nuevo/maquillame.otravez.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",The Black clover la espada del rey
+http://208.88.245.85/nuevo/blacklover.espadadelreymago.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya
+http://208.88.245.85/nuevo/cuiden.a.maya.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto
+http://208.88.245.85/nuevo/el.pacto.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental 
+http://208.88.245.85/nuevo/elemental.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",The flash
+http://208.88.245.85/nuevo/the.flash.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",The Black clover la espada del rey
+http://208.88.245.85/nuevo/blacklover.espadadelreymago.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya
+http://208.88.245.85/nuevo/cuiden.a.maya.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto
+http://208.88.245.85/nuevo/el.pacto.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental 
+http://208.88.245.85/nuevo/elemental.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",The flash
+http://208.88.245.85/nuevo/the.flash.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers despertar de las bestias
+http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman a trav茅s del spiderverso
+http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg",Lego friends
+http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9aYflMUqFZo5zEbquNmVSQpFfby.jpg",Los blancos no saben saltar
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/40UPlmnQcG71KSmjijksZjbsH2q.jpg",La usurpadora
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misi贸n de rescate 2
+http://208.88.245.85/nuevo/extraction.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg",Taz odisea por las hamburguesas 
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uYxrWr9o44yO0HvVfFFHGu01gfX.jpg",La ni帽a de la comuni贸n 
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",Flaminhot
+http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) (CAM)
+http://208.88.245.85/nuevo/la.sirenita.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023)
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2axXVpi3dKfESWzgncbakLB7o7f.jpg",La princesa cisne
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",Ellas quieren m谩s 
+http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nRVnpz4dzRvknK0BANjJ76dP0D3.jpg",Big Mack gangsters
+http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y tina
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita
+http://208.88.245.85/nuevo/la.sirenita.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg",Rock dog 3
+http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicolle
+http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",El 煤ltimo vagon
+http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",Nada qu茅 ver
+http://208.88.245.85/nuevo/nadakver.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",R谩pidos y furiosos 10
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir
+http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater
+http://208.88.245.85/nuevo/crater.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita suegra
+http://208.88.245.85/nuevo/benditasuegra.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/j741ip55NOzabrllOXHJv2vpag7.jpg",Hasta la madre
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iKcnbqhKvlwfF4CnMVlRrYlOvM5.jpg",Air (2023)
+http://208.88.245.85/nuevo/air.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",La madre (2023)
+http://208.88.245.85/nuevo/la.madre.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesi贸n infernal: El despertar (2023)
+http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",Quiero tu vida (2023)
+http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",Ghosted (2023)
+http://208.88.245.85/nuevo/ghosted.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",Renfield: Asistente de vampiro (2023)
+http://208.88.245.85/nuevo/renfield.asistdvampiro.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",Power Rangers: Ayer, hoy y siempre (2023)
+http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg",Peter Pan y Wendy (2023)
+http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Embaucadores (2023)
+http://208.88.245.85/nuevo/sharper.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",Un para铆so peligroso (2023)
+http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023)
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",Malcriados (2023)
+http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",El 煤ltimo baile de Magic Mike (2023)
+http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023)
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lwybGlEEJtXZM3ynY19PNwNlPn9.jpg",Historia de Honor (2022)
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023)
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",Alerta extrema (2023)
+http://208.88.245.85/nuevo/alerta.extrema.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/26yQPXymbWeCLKwcmyL8dRjAzth.jpg",Historia de Honor (2022)
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023)
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023)
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",Hacia la libertad (2022)
+http://208.88.245.85/nuevo/emancipation.dual.2022.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",M3GAN (2022)
+http://208.88.245.85/nuevo/megan.dual.2022.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",Pinocho de Guillermo del Toro (2022)
+http://208.88.245.85/nuevo/pinocchio.deltoro.dual.2022.mkv
+
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer: el dilema de la bomba at贸mica (2023)
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Oppenheimer-%20el%20dilema%20de%20la%20bomba%20at%C3%B3mica%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Unos suegros de armas tomar (2023)
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Unos%20suegros%20de%20armas%20tomar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Misi贸n imposible: Sentencia mortal (2023)(CAM)
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Misi%C3%B3n-%20Imposible%20-%20Sentencia%20mortal%20parte%20uno%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la galaxia Vol. 3 (2023)
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Guardianes%20de%20la%20Galaxia%20volumen%203%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto (The Covenant) (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20El%20Pacto%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental (2023) (CAM)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Elemental%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misi贸n de rescate 2 (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Tyler%20Rake%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",Misi贸n de rescate 1 (2020)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Misi%C3%B3n%20de%20rescate%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",Flash (2023) (CAM)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Flash%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",R谩pidos y furiosos 10 (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",Hypnotic (2023) (CAM)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Hypnotic%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Spider-Man-%20Cruzando%20el%20multiverso%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La pel铆cula (2023)
+https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",R谩pidos y furiosos 10 (2023)
+https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20Online.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",R谩pidos y furiosos 10 (2023)
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmayo%2F8yjrxajwxw~clOrKvTtTh.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Cr%C3%A1ter%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la galaxia Vol. 3 (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Guardianes%20de%20la%20Galaxia-%20Volumen%203%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",El exorcista del papa (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20El%20exorcista%20del%20papa%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",Calabozos y Dragones: Honor entre ladrones (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Calabozos%20%26%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tBiUXvCqz34GDeuY7jK14QQdtat.jpg",Los Caballeros del Zodiaco (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Los%20Caballeros%20del%20Zodiaco-%20Saint%20Seiya%20-%20El%20inicio%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",Ant-Man y la Avispa: Quantuman铆a (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Ant-Man%20and%20the%20Wasp-%20Quantumania%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",Chupa (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Chupa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/c21ON7BZn0jwdNl6ibZ1vhXJmpy.jpg",La historia m谩s grande jam谩s contada (1965)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20La%20Historia%20M%C3%A1s%20Grande%20Jam%C3%A1s%20Contada%20(1965)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",Ben-Hur (1959)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Ben-Hur%20(1959)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ecz83StK0eK8Rnio8TCmhbtVU98.jpg",Hijo de Dios (2014)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Hijo%20de%20Dios%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",Los diez mandamientos (1956)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Los%20Diez%20Mandamientos%20(1956)%20Online%20Latino%20HD%20-%20Cuevana%20HD.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ng0bdozu6NBdGQIsru1oXyzNxc6.jpg",Mar铆a Magdalena (2018)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Mar%C3%ADa%20Magdalena%20Online%20Gratis%20(%E2%9A%9C%EF%B8%8F%202018)%20-%20CUEVANA3.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg",Pablo, el ap贸stol de Cristo (2018)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Pablo%20Apostol%20De%20Cristo%20(2018)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bJfls3xZqEyPyXWONQLcMX6KxIC.jpg",La resurrecci贸n de Cristo (2016)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20La%20Resurrecci%C3%B3n%20de%20Cristo%20(2016)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La pel铆cula (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/WihoHaU9yvhhdoSqDAhiIlNN8g.jpg",Condena brutal (1989)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Condena%20brutal%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cxojS3DVDK1TGKv3QEhAs9dbcgw.jpg",Sangre por sangre (1993)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Sangre%20por%20sangre%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jOHxo8nHyy1rPEmSD7N6dVmog8M.jpg",Viven (1993)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20%C2%A1Viven!%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg",El vuelo de los ladrones (2023)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20El%20vuelo%20de%20los%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg",Misterio a la vista (2023)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Murder%20Mystery%202%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg",Calabozos y Dragones: Honor entre ladrones (2023)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Calabozos%20%26%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",Sin novedad en el frente (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Sin%20novedad%20en%20el%20frente%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",Todo en todas partes al mismo tiempo (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Todo%20En%20Todas%20Partes%20Al%20Mismo%20Tiempo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sT1XW0Mx5SEnpuTKNLYDWxRHtdn.jpg",Dead Zone (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Dead%20Zone%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",Babylon (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Babylon%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aOj8mNRXz3ss9pwCYgpva1JqmZx.jpg",Pamela: una historia de amor (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Pamela%20Anderson-%20Una%20historia%20de%20amor%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="movie",La mujer rey (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20La%20Mujer%20Rey%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="movie",R.I.P.D. 2 (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20R.I.P.D.%202-%20Rise%20of%20the%20Damned%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="movie",La bala perdida 2 (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20Bala%20perdida%202%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zhLKlUaF1SEpO58ppHIAyENkwgw.jpg",El hombre del norte (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axkmhpspmvm1/b/Vid/o/hombrenorte.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",Wonder Woman 1984 (2020)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisdic%2Fnuevas%2Fiwonder%201984.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",Creed II (2018)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte5%2FVer%20Creed%202-%20La%20leyenda%20de%20Rocky%20(Defendiendo%20el%20legado)%20Online%20(2018)%20-%20REPELIS.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",365 Dias 1 (2020)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte2%2FVer%20pel%C3%ADcula%20365%20d%C3%ADas%20online%20gratis%20en%20HD%20%E2%80%A2%20Gnula.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/oCVDRqnh6xtaexTKQ8OkXD89rkL.jpg",Maligno (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2Fmaligno.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg",Escape Room 2 (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2Fescape%20room%202.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",No respires 2 (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2F%E2%96%B7%20Ver%20No%20Respires%202%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",Free Guy (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2F%E2%96%B7%20Ver%20Free%20Guy-%20Tomando%20el%20Control%20(2021)%20Pel%C3%ADcula%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",Free Guy (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2F%E2%96%B7%20Ver%20Free%20Guy-%20Tomando%20el%20Control%20(2021)%20Pel%C3%ADcula%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/umTUgeDhbkuCSUd9PPdr0Wrh3QA.jpg",Culpable (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisoctur%2F%E2%96%B7%20Ver%20Culpable%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",After. Almas perdidas (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisnovi%2F%E2%96%B7%20Ver%20After-%20Almas%20Perdidas%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mcAIBwYP0E5fKBaOM6z5zt6QYhu.jpg",Ruega por nosotros (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismay%2FVer%20Ruega%20por%20nosotros%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",Aquellos que desean mi muerte (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismay%2FMixDrop%20-%20Watch%20Aquellos%20que%20desean%20mi%20muerte%20(2021)%201080p%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",Cruella (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismay%2FCruella.2021.1080p.Latino.mkv.mp4%20at%20Streamtape.com.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",El Ej茅rcito de los muertos (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismay%2F%E2%96%B7%20Ver%20El%20Ej%C3%A9rcito%20de%20los%20Muertos%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",La Liga de la Justicia de Zack Snyder (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2FZack%20Snyders%20Justice%20League%20(2021)%20LAT_2.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/asPZelCux7pSmp091Cy23ZS1nWO.jpg",Tom y Jerry (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2Ftomyjerry.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",Raya y el 煤ltimo drag贸n (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2Fraya%20dragon.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",Godzilla vs. Kong (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2FMixDrop%20-%20Watch%20Godzilla.vs.Kong.2021.1080P.Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nWBPLkqNApY5pgrJFMiI9joSI30.jpg",Un pr铆ncipe en Nueva York 2 (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2F%E2%96%B7%20Ver%20Un%20Pr%C3%ADncipe%20en%20Nueva%20York%202%20Online%20en%20Espa%C3%B1ol%20Latino%20y%20Subtitulado.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg",Luca (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjun%2Fluca.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",El conjuro 3 (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjun%2F%E2%96%B7%20Ver%20El%20Conjuro%203-%20El%20Diablo%20me%20Oblig%C3%B3%20a%20Hacerlo%20(2021)%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg",La purga por siempre (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2FVer%20La%20Purga-%20Infinita%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",Space Jam 2 (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2FSpace%20Jam%20A%20New%20Legacy%20(2021)%20LAT.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",Justicia implacable (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2Fjusticia%20impacable.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fL7rh6Mzx87MbVl2aI4sYtxfhO5.jpg",Monsterman铆a (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisfeeb%2FVer%20Monsterman%C3%ADa%20Pelicula%20Completa%20HD%20Online%20-%20EntrePeliculasySeries.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xCTn3IA729UuyvB4rY65fiOOzUv.jpg",Ghostbusters: el legado (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpeliseneen%2FVer%20Ghostbusters-%20El%20Legado%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg",El diario de Greg (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisdici%E2%96%B7%20Ver%20El%20Diario%20de%20Greg%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",El 煤ltimo duelo (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisdici%E2%96%B7%20Ver%20El%20%C3%9Altimo%20Duelo%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",No mires arriba (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisdici%2FVer%20No%20Miren%20Arriba%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg",El stand de los besos 3 (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2FVer%20Mi%20primer%20beso%203%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",El Escuadr贸n Suicida (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2FThe%20Suicide%20Squad%20(2021)%20LAT.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",R谩pidos y furiosos 9 (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2FRapido%20y%20Furioso%209%20(2021)%20LAT.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg",Jungle Cruise (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisagosto%2F%E2%96%B7%20Ver%20Jungle%20Cruise%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6Wdl9N6dL0Hi0T1qJLWSz6gMLbd.jpg",Mortal Kombat (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisabrl%2FVer%20Mortal%20Kombat%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/auE9fF6eDH9tOE21CBPI7W8dbSG.jpg",Nadie (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisabrl%2Fnadie.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/s6T6Sg2d98FKo3g1VCAjzJcW4H0.jpg",El protector (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisabrl%2FMixDrop%20-%20Watch%20El.Protector.2021.1080P.Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",Monster Hunter (2020)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelfeb%2Fmonster%20hunter.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v19nLqMwHh9QcQmtnpp0Oj0mtVc.jpg",Sin salida (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelfeb%2F%E2%96%B7%20Ver%20Sin%20Salida%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Cr贸nicas de Navidad 1 (2018)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/peliculanoviembr%2FThe.Christmas.Chronicles%20LAT.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zLJZdq87wBFzw9KOjlb6zK8cGeb.jpg",La casa del terror (2019)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/peliculanoviembr%2F%E2%96%B7%20Ver%20La%20Casa%20del%20Terror%20Pelicula%20Completa%20Online%20en%20Espa%C3%B1ol%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",SEAN ETERNOS SERIE
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/fuego%2FVer%20Pelicula%20Enola%20Holmes%20Online%20Latino%20en%20HD%20-%20Poseidonhdd.com_2.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",TNTS1
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2FVer%20Scream%206%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",Agente Fortune: El gran enga帽o (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2FVer%20Agente%20Fortune-%20El%20gran%20enga%C3%B1o%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg",Tenemos un fantasma (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Ffeb%2FVer%20Tenemos%20un%20fantasma%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",El peor vecino del mundo (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Ffeb%2FVer%20El%20peor%20vecino%20del%20mundo%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1EnBjTJ5utgT1OXYBZ8YwByRCzP.jpg",Hart (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Ffeb%2FVer%20Die%20Hart%20the%20Movie%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg",Creed III (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Ffeb%2FVer%20Creed%20III%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wtFwgFFk1ze789ghcadWGEVjj3N.jpg",Winnie the Pooh: Blood and Honey (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Winnie-the-Pooh-%20Blood%20and%20Honey%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aOj8mNRXz3ss9pwCYgpva1JqmZx.jpg",Pamela una historia de amor (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Pamela%20Anderson-%20Una%20historia%20de%20amor%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",Los cr铆menes de la academia (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Los%20cr%C3%ADmenes%20de%20la%20academia%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",Babylon (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Babylon%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ugIdyvtAzHWOguD91UjHKoAvfum.jpg",Jackass Forever (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2FVer%20Jackass%20Forever%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",Spider-Man: No Way Home (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fspidrman%20nueva.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",Tren Bala (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Tren%20bala%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",Smile (2022) CAM
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Smile%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.ts
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1vWUX8n6sZ1P0BFpfzwtMgIPdfj.jpg",El Cuartel Secreto (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Secret%20Headquarters%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",Invitaci贸n al infierno (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Invitaci%C3%B3n%20al%20Infierno%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",Sin novedad en el frente (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Sin%20novedad%20en%20el%20frente%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/akWDID6zfsWHJhGCAAcbwbytU55.jpg",Noche de sustos (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Noche%20de%20sustos%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg",La Maldici贸n De Bridge Hollow (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20La%20Maldici%C3%B3n%20De%20Bridge%20Hollow%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",La escuela del bien y del mal (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20La%20escuela%20del%20bien%20y%20del%20mal%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ifxAT8LVbSCxAi290VplTwbEQNh.jpg",Jaula (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Jaula%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Grim cutty: Asesino implacable (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20GRIMCUTTY-%20asesino%20implacable%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xQ1du8KQ0xijNQTceLmttt4Uokz.jpg",B谩rbaro (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Barbarian%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r4ZDV5Xm8qrbG2TIPlocs2wJxHL.jpg",Truco o trato Scooby-Doo (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20%C2%A1Truco%20o%20trato%20Scooby-Doo!%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/45W9ViL5ilurSLVzBEybYXHrxEJ.jpg",No estar谩s sola (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2Fno%20estaras%20sola.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wHowKf77gNZbVo9yu5ggiNBFCdJ.jpg",Sonr铆e (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20Smile%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",R.I.P.D. 2 (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20R.I.P.D.%202-%20Rise%20of%20the%20Damned%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",La mujer rey (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20La%20Mujer%20Rey%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg",El diario de Noel (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20El%20diario%20de%20Noel%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20Black%20Panther-%20Wakanda%20Forever%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg",La bala perdida 2 (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20Bala%20perdida%202%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kEyi52oFS45X5sb78kAMnfrenxm.jpg",King: Regreso a casa (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20King-%20Regreso%20a%20casa%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg",The Valet (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20El%20aparcacoches%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",Dog. Un viaje salvaje (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20Dog.%20Un%20viaje%20salvaje%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Doctor Strange en el multiverso de la locura(2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg",Asesino Sin Memoria (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20Asesino%20Sin%20Memoria%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",Los tipos malos (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Los%20Tipos%20Malos%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg",Chip y Dale: Al Rescate (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2F%E2%96%B7%20Ver%20Chip%20y%20Dale-%20Al%20Rescate%20(2022)%20Pel%C3%ADcula%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg",Ted Bundy: En la mente del asesino (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20Ted%20Bundy-%20En%20la%20Mente%20del%20Asesino%20(2021)%20Pel%C3%ADcula%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg",La cabeza de la ara帽a (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20La%20Cabeza%20de%20la%20Ara%C3%B1a%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",El peso del talento (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20El%20Peso%20del%20Talento%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/chKMG9tzFqSkj24ejXTio156Qo0.jpg",El padre de la novia (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20El%20padre%20de%20la%20novia%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",Doctor Strange en el Multiverso de la Locura (2022
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjuniio%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
 
 
