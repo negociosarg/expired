@@ -783,7 +783,7 @@ https://cdn.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|re
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MX7IdkGfW6OAFz2ocwEFGw","k":"XHMy0i69qWfTvpS7tItqoA"},{"kty":"oct","kid":"2fpUAF8jWTuKXqOmEHFShQ","k":"-XaoXpDCDtXAEtMdItLzBQ"},{"kty":"oct","kid":"ItJt3qMYUXKOl-XWSqRbPA","k":"jgRYrPueW6s442qDz1Grfg"},{"kty":"oct","kid":"FMZGiq1WUlmjICNXeseaOQ","k":"UWOKYb-DsroGJTgx2YZ2LA"}],"type":"temporary"}
-#EXTINF:-1 ch-number="350" tvg-id="514#Cinelatino" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1734227721685" group-title="Peliculas y Series", Cine Latino
+#EXTINF:-1 ch-number="350" tvg-id="514#Cinelatino" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1734227721685" group-title="Cine, Novelas y Series", Cine Latino
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000106/index_fk.mpd?|Origin="android_mobile.directvgo.com"
@@ -928,7 +928,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"N_69vQp0V9iMCsBpqnZ9og","k":"Tm_qrTFspFY07MWRC7UJvw"},{"kty":"oct","kid":"rNyTNwKSVu2Nbkmh-sj-sg","k":"TndZABR2oCrBr6DSFAMlXg"},{"kty":"oct","kid":"FxWed5giX_WFxSniN97mIg","k":"nBo7Fl9fV40ORfd3ok097g"},{"kty":"oct","kid":"2cg8nMqLVYy7aUfKhVF6wQ","k":"DAnQQ22DqecWIFa6Z04fuA"}],"type":"temporary"}
-#EXTINF:-1 ch-number="423" tvg-id="alacocina" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Culturales", ALaCocina TV
+#EXTINF:-1 ch-number="423" tvg-id="alacocina" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Variedades", ALaCocina TV
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000067/index_fk.mpd?|Origin="android_mobile.directvgo.com"
@@ -940,7 +940,48 @@ http://m.mtd.llc:8880/CH0100000000067/index_fk.mpd?|Origin="android_mobile.direc
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000230/index_fk.mpd?|origin=android_mobile.directvgo.com
 
+MENDOZA
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15243320c0a79defa8814252e3e8c07&key=0659db05632c0061c126db7a12582499
+#EXTINF:-1 ch-number="807" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjblT5f-LbPIcvgAlPRtibkJE_ZpiRwC6o9qvvbcDUnd6h7WAzYIgalu8yeDF6rxoS_I3G8xhbHRx8Yd5fJ5CdmtYtNs5XLCfR-alUtXaIY78IKrglbOnvjHSwX7th4DuYnroKS_WXQGAml5aOdMla5-rFC9XtRXjQyySm4K3oRb5hW3B763iLTnA0h/s483/elsietetv.png" group-title="Provinciales", Canal Siete Mendoza
+http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canal7mza.playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15243320c0a79defa8814252e3e8c07&key=0659db05632c0061c126db7a12582499
+#EXTINF:-1 ch-number="807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png" group-title="Provinciales", Canal 9 Televida
+http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/canal9televida.playlist.m3u8
+
+
+salta - Jujuy
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581
+#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta - Jujuy", EL ONCE TV SALTA
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
+#EXTINF:-1 group-title="Salta - Jujuy" ch-number="464" tvg-id="Somos-Salta-Jujuy" tvg-logo="https://i.ibb.co/qnXjFGd/somos-salta.png", Somos Salta Jujuy
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g94QZKB/somosjujuy.png" group-title="Salta - Jujuy",, CANAL 7 JUJUY
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cypF3kz/Canal-4-Jujuy-en-vivo-Online-40685-1080x675.png" group-title="Salta - Jujuy", CANAL 4 JUJUY Op2
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cypF3kz/Canal-4-Jujuy-en-vivo-Online-40685-1080x675.png" group-title="Salta - Jujuy",, CANAL 4 JUJUY
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiomitrejujuy.com.ar/public/img/radio_mitre_logo_550x369.png" group-title="Salta - Jujuy",, Radio Mitre Jujuy
+https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581
+#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta - Jujuy", EL ONCE TV SALTA
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
 
@@ -1043,6 +1084,11 @@ https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mp
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
+#EXTINF:-1 group-title="Provinciales" ch-number="460" tvg-id="Somos-norte" tvg-logo="https://i.ibb.co/qnXjFGd/somos-salta.png", Somos Norte
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
 religión (490xx)
@@ -1488,12 +1534,12 @@ buenos aires
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15243320c0a79defa8814252e3e8c07&key=0659db05632c0061c126db7a12582499
-#EXTINF:-1 ch-number="807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png" group-title="Bahía Blanca", Canal Siete Bahía Blanca
+#EXTINF:-1 ch-number="807" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png" group-title="Provinciales", Canal Siete Bahía Blanca
 https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc/Canal7_Bahia_Blanca.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ccfc823faed878832b3e4a69fcb72a2&key=d68b394ab768f4a2ec148ab8cdac46ef
-#EXTINF:-1 ch-number="809" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Elnuevetv_bahia_blanca_logocolor.svg/526px-Elnuevetv_bahia_blanca_logocolor.svg.png" group-title="Bahía Blanca", ELNUEVE TV BAHÍA BLANCA
+#EXTINF:-1 ch-number="809" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Elnuevetv_bahia_blanca_logocolor.svg/526px-Elnuevetv_bahia_blanca_logocolor.svg.png" group-title="Provinciales", ELNUEVE TV BAHÍA BLANCA
 https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1503,7 +1549,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9
 chaco
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dde29700ee0423e1afe3828c6f251295&key=1928b62bc191bd26c357137d7d909868
-#EXTINF:-1 ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canal9resistencia.png/231px-Canal9resistencia.png" group-title="Chaco", 9 NORDESTE
+#EXTINF:-1 ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canal9resistencia.png/231px-Canal9resistencia.png" group-title="Provinciales", 9 NORDESTE
 https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1511,7 +1557,7 @@ corrientes
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iD/XLcm3LbM9e0+NwOsAFg","kid":"7oN9DsQU2VpRsMelfUnTBw"}],"type":"temporary"}
-#EXTINF:-1 ch-number="813" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" tvg-group="Corrientes", 13 Max Corrientes 
+#EXTINF:-1 ch-number="813" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Provinciales" , 13 Max Corrientes 
 https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_enc/CH_13_Corrientes.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1519,7 +1565,7 @@ entre ríos
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dd573858f3414066b9292ef6397a5c3c&key=593eb5f7facce4240ff7a5f26afd47e0
-#EXTINF:-1 ch-number="819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Entre Ríos", Canal 9 Litoral
+#EXTINF:-1 ch-number="819" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Provinciales" , Canal 9 Litoral
 https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1527,7 +1573,7 @@ neuquén
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55828b728b8affe6d1d57d050025645d&key=8ac11ed6d0ccaeac3f8218419f65bb94
-#EXTINF:-1 ch-number="827" tvg-logo="https://3.bp.blogspot.com/-NSUeAruWY9g/WHvPTwTJjSI/AAAAAAAABZU/8JNdfvDLjlIabo6CyqiujRkpt8h9B3-wgCLcB/s1600/canal7-neuquen.png" group-title="Neuquén", CANAL 7 NEUQUÉN
+#EXTINF:-1 ch-number="827" tvg-logo="https://3.bp.blogspot.com/-NSUeAruWY9g/WHvPTwTJjSI/AAAAAAAABZU/8JNdfvDLjlIabo6CyqiujRkpt8h9B3-wgCLcB/s1600/canal7-neuquen.png" group-title="Provinciales", CANAL 7 NEUQUÉN
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1539,7 +1585,7 @@ misiones
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c996a1465acddc9c3f7a2dd9b86aa88&key=a2b63e48c99bebb52bfcdb1830efdd3e
-#EXTINF:-1 ch-number="832" tvg-logo="http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png" group-title="Misiones", CANAL 12 MISIONES
+#EXTINF:-1 ch-number="832" tvg-logo="http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png" group-title="Provinciales", CANAL 12 MISIONES
 https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 Río negro
@@ -1549,7 +1595,7 @@ salta
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581
-#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta", EL ONCE TV SALTA
+#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Provinciales", EL ONCE TV SALTA
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1561,7 +1607,7 @@ santa fe
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0
-#EXTINF:-1 ch-number="843" tvg-id="" tvg-logo="https://i.ibb.co/jvJwYdR/eltrestv.png" group-title="Santa Fe", EL TRES TV ROSARIO
+#EXTINF:-1 ch-number="843" tvg-id="" tvg-logo="https://i.ibb.co/jvJwYdR/eltrestv.png" group-title="Provinciales", EL TRES TV ROSARIO
 https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1570,17 +1616,17 @@ tucumán
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048
-#EXTINF:-1 ch-number="8640" tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" group-title="Tucumán", AMERICA TUCUMÁN
+#EXTINF:-1 ch-number="8640" tvg-logo="https://i.ibb.co/B6ZHDXy/america-tucuman.png" group-title="Provinciales", AMERICA TUCUMÁN
 https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1 ch-number="845" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png" group-title="Tucumán", EL OCHO TV TUCUMÁN
+#EXTINF:-1 ch-number="845" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png" group-title="Provinciales", EL OCHO TV TUCUMÁN
 https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" group-title="Tucumán", CANAL 10 TUCUMÁN
+#EXTINF:-1 ch-number="866" tvg-logo="https://i.ibb.co/vvknBFv/canal10-tucuman.png" group-title="Provinciales", CANAL 10 TUCUMÁN
 https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
@@ -1617,34 +1663,6 @@ https://musicsrc.cvattv.com.ar/RCNN
 
 #EXTINF:-1 group-title="Radios" ch-number="907" ,NACIONAL
 https://musicsrc.cvattv.com.ar/RNAC
-
-
-
-
-adultos
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="PlayboyTVLatinAmerica.us.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1", Playboy TV (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1001" tvg-id="Sextreme.br.uy" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg", Sextreme (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-
-
-
-
 
 
 
