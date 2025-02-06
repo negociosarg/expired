@@ -1619,27 +1619,418 @@ https://musicsrc.cvattv.com.ar/RCNN
 https://musicsrc.cvattv.com.ar/RNAC
 
 
+-------------------------------------------------------------------------------------
 
 
-adultos
+
+DAZN
+
+
+#EXTM3U
+
+#EXTINF:-1 group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN FORMULA 1  mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN LA LIGA (🇪🇸) mpd
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+ 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 1  (🇪🇸) mpd
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 2  (🇪🇸) mpd
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" 
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1"", DAZN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 1 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium455/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 2 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 3 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium457/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 4 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium458/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 5 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium459/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="⚽DAZN - F1",1 DAZN FORMULA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium537/index.m3u8|Origin=https://weblivehdplay.ru
+
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium427/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN 1 S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium230/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN REDIFUSION ESP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium538/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png"   tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" group-title="⚽DAZN - F1", DAZN LA LIGA ESP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN 1 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium455/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN 2 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN 3 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium457/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN 4 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium458/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN 5 D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium459/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" #EXTINF:-1 group-title="⚽DAZN - F1",1 DAZN FORMULA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium537/index.m3u8|Origin=https://weblivehdplay.ru
+
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium427/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN 1 S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium230/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN REDIFUSION ESP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium538/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://i.ibb.co/6FnJqrZ/dazn-logo-1.png" #EXTINF:-1 group-title="⚽DAZN - F1", DAZN LALIGA ESP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+EVENTOS DIARIOS
+
+
+
+#EXTINF:-1   group-logo="https://iili.io/2QvGwcF.png"  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 Spain - Segunda Division : Tenerife vs Deportivo La Coruña
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium539/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Simulcast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium559/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Juventus vs Benfica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium150/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Young Boys vs Crvena Zvezda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium195/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Stuttgart vs PSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium175/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Sporting CP vs Bologna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium68/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Sturm Graz vs RB Leipzig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium69/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : PSV vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium33/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Manchester City vs Club Brugge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium365/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Lille vs Feyenoord
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium393/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Internazionale vs Monaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium105/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Girona vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium99/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Bayern München vs Slovan Bratislava 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium180/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Dinamo Zagreb vs Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium433/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Brest vs Real Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Borussia Dortmund vs Shakhtar Donetsk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium151/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Bayer Leverkusen vs Sparta Praha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium182/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Barcelona vs Atalanta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium435/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Aston Villa vs Celtic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium183/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 Argentina - Primera División : Talleres Córdoba vs Independiente
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium388/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 Argentina - Primera División : Gimnasia La Plata vs San Lorenzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium387/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",18:30 Brazil - Campeonato Paulista A1 : São Bernardo vs Santos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium140/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",19:00 Costa Rica - Primera Division : Guanacasteca vs Puntarenas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium1/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",19:00 Brazil - Campeonato Carioca 1 : Maricá vs Vasco Da Gama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium78/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",19:00 Copa Chile : Recoleta vs Universidad Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium642/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",19:15 Argentina - Primera División : Huracán vs Estudiantes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium388/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",19:15 Argentina - Primera División : Unión Santa Fe vs Boca Juniors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium387/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",19:45 Brazil - Campeonato Paulista A1 : Ponte Preta vs Corinthians
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium888/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",21:30 Argentina - Primera División : River Plate vs Instituto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium388/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",21:30 Campeonato Gaúcho De Futebol : Monsoon vs Grêmio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium88/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",21:30 Brazil - Campeonato Carioca 1 : Botafogo vs Fluminense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium78/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",21:35 Brazil - Campeonato Paulista A1 : Portuguesa vs São Paulo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium140/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",22:00 Liga MX : Atlas vs Monterrey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium66/index.m3u8|Origin=https://qqwebplay.xyz
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="PlayboyTVLatinAmerica.us.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1", Playboy TV (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.license_key=8a9e74b80c7cefa177926fc90eb05988:54e2cb64384e73b37b19d8c50e9479a4
+#EXTINF:-1   tvg-logo="-" group-title="EVENTOS DIARIOS" ,antena tres
+https://cache1.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1001" tvg-id="Sextreme.br.uy" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg", Sextreme (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Salzburg vs Atlético Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium421/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Salzburg vs Atlético Madrid 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://la12hd.com/
+https://c2nvdxq.fubohd.com/load/ligadecampeones3/mono.m3u8?token=035f804102c7f8fe48c428acfc7f9af6bbbd2c50-f3-1738215620-1738179620
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Salzburg vs Atlético Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium19/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Salzburg vs Atlético Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium107/index.m3u8|Origin=https://qqwebplay.xyz
+
+
+#EXTINF:-1  tvg-logo="https://iili.io/2QvGwcF.png" group-title="EVENTOS DIARIOS",17:00 UEFA Champions League : Salzburg vs Atlético Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium14/index.m3u8|Origin=https://qqwebplay.xyz
+
+---------------------------------------------------------
 
 
 
