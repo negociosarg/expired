@@ -419,14 +419,7 @@ https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
 group-title="Argentina - ⚽Pack Futbol"
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina - ⚽Pack Futbol",⚽ TYC SPORTS 
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -434,19 +427,34 @@ https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina - ⚽Pack Futbol",⚽ ESPN PREMIUM 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina - ⚽Pack Futbol",⚽ ESPN PREMIUM 1
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina - ⚽Pack Futbol",⚽ ESPN PREMIUM 2
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina - ⚽Pack Futbol",⚽ ESPN PREMIUM opc2
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Argentina - ⚽Pack Futbol",⚽ ESPN PREMIUM 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 
+
+#EXTINF:-1 group-logo="https://iili.io/2Q5ocw7.png"  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Argentina - ⚽Pack Futbol", ESPN Premium 3
+https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -454,8 +462,29 @@ https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="Argentina - ⚽Pack Futbol", ⚽ TNT SPORTS 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="Argentina - ⚽Pack Futbol", ⚽ TNT SPORTS 1
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/2Q5ocw7.png"  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Argentina - ⚽Pack Futbol", ⚽ TNT SPORTS 2
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Argentina - ⚽Pack Futbol",⚽ TYC SPORTS 1
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="Argentina - ⚽Pack Futbol" ,⚽ TYC SPORTS 2
+
 
 
 
