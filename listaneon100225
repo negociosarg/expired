@@ -3030,6 +3030,13 @@ http://tvplanet.online/live/qvAmgQ2025xZgOUa/qvAmgQ2025xZgOUa/1071706.m3u8
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="Uruguay - Deportes",⚽ GOL TV
+https://dsr.ride.com.ar/tvmia/bn19/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1100px-Logo_VTV_Plus_nuevo.png" group-title="Uruguay - Deportes",⚽ W DEPORTES URUGUAY
+https://dsr.ride.com.ar/tvmia/bn16/playlist.m3u8
+
+
 
 
 
