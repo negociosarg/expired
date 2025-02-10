@@ -2652,6 +2652,129 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 
 
 
+salta - Jujuy
+
+
+
+#EXTINF:-1 group-logo="https://iili.io/2Qe3JMg.png" 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581
+#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta - Jujuy", EL ONCE TV SALTA
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
+#EXTINF:-1 group-title="Salta - Jujuy" ch-number="464" tvg-id="Somos-Salta-Jujuy" tvg-logo="https://i.ibb.co/qnXjFGd/somos-salta.png", Somos Salta Jujuy
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g94QZKB/somosjujuy.png" group-title="Salta - Jujuy",, CANAL 7 JUJUY
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cypF3kz/Canal-4-Jujuy-en-vivo-Online-40685-1080x675.png" group-title="Salta - Jujuy", CANAL 4 JUJUY Op2
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cypF3kz/Canal-4-Jujuy-en-vivo-Online-40685-1080x675.png" group-title="Salta - Jujuy",, CANAL 4 JUJUY
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiomitrejujuy.com.ar/public/img/radio_mitre_logo_550x369.png" group-title="Salta - Jujuy",, Radio Mitre Jujuy
+https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581
+#EXTINF:-1 ch-number="840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/439px-Elonce_TV_Salta.png" group-title="Salta - Jujuy", EL ONCE TV SALTA
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+
+
+
+
+SAN Juan
+
+#EXTINF:-1 group-logo="https://sj.sanjuan.gob.ar/img/logoblanco.0446ce91.svg" 
+https://sj.sanjuan.gob.ar/img/logoblanco.0446ce91.svg
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telesol.png" group-title="San Juan", Telesol San Juan
+http://45.172.19.197/Live/8c0b7484b31b7ecdf103043b15fdebe8/telesolsanjuan.playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="San Juan", CANAL 13 SAN JUAN
+https://ythls-v3.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telesol.png" group-title="San Juan", Telesol San Juan
+https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@Telesolsj/live
+
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal4sanjuan.png" group-title="San Juan", Canal 4 San Juan
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal4sanjuan.png" group-title="San Juan", Canal 4 San Juan
+http://45.172.19.197/Live/8c0b7484b31b7ecdf103043b15fdebe8/docemisiones.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal30sanjuan.png" group-title="San Juan", Canal 30 San juan
+https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv/live
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/34sanjuan.png" group-title="San Juan", Canal 34 San juan
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="San Juan", CANAL 8 SAN JUAN 
+https://ythls-v3.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="San Juan", CANAL 13 SAN JUAN
+https://ythls-v3.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="San Juan", CANAL 4 SAN JUAN
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/_rv20221116-01/web/assets/imgs/logos/telesol_w.png" group-title="San Juan", TELESOL SAN JUAN
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="San Juan", AM 1020 SAN JUAN
+https://cnnsanjuan.com:9999/live/am1020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="San Juan", CANAL 8 SAN JUAN 
+https://ythls-v3.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="San Juan", CANAL 13 SAN JUAN
+https://ythls-v3.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="San Juan", CANAL 4 SAN JUAN
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/_rv20221116-01/web/assets/imgs/logos/telesol_w.png" group-title="San Juan", TELESOL SAN JUAN
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="San Juan", AM 1020 SAN JUAN
+https://cnnsanjuan.com:9999/live/am1020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://conpacto.com.ar/wp-content/uploads/2020/01/logosarmiento-radios.png" group-title="San Juan" , LV5 SARMIENTO
+https://stream.arcast.live/sarmiento/sarmiento/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="San Juan", COSMOS TV SAN JUAN
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="San Juan", ZONDA TV SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/82536410_1298596117000777_4339975353511444480_o_1.png" group-title="San Juan", DEL SUR TV SAN JUAN
+https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/82536410_1298596117000777_4339975353511444480_o_0.png?itok=zbFF-GkD" group-title="San Juan", CANAL 34 SAN JUAN
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj" group-title="San Juan", ALBARDON TV SAN JUAN
+https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal30sanjuan.png" group-title="San Juan", Canal 30 San juan
+https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv/live
+
+
+
+
+
+
 
 
 
