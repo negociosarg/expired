@@ -1386,6 +1386,87 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mp
 https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+DEPORTES URUGUAY
+
+#EXTM3U
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2505" tvg-name="VTV (OP2)" tvg-id="vtv.uy" 
+tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0ExJ6PltnX6AJ4_BZBL2S7U_8CaOV6ZbbC4RrkLab2xdU.png" group-title="Uruguay",VTV (OP2)
+http://tvplanet.online/live/qvAmgQ2025xZgOUa/qvAmgQ2025xZgOUa/1071731.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1 tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", group-title="Uruguay - Deportes", Gol TV
+http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 1
+http://tvplanet.online/live/qvAmgQ2025xZgOUa/qvAmgQ2025xZgOUa/1071706.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 2
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/86091.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 3
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/86092.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https: //i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 4
+http://tvplanet.online/live/qvAmgQ2025xZgOUa/qvAmgQ2025xZgOUa/1069635.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 5
+http://tvplanet.online/live/qvAmgQ2025xZgOUa/qvAmgQ2025xZgOUa/1069635.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 6
+https://dnslivetv.online/live/Gold2525/Gold2525/1070325.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 7
+https://dnslivetv.online/live/Gold2525/Gold2525/1071706.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png" 
+#EXTINF:-1BRASIL="2482" tvg-name="Campeonato Urugay (OP2)" tvg-id="vtvplus.uy" tvg-logo="https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png" group-title="Uruguay - Deportes",Campeonato Urugay 8
+https://dnslivetv.online/live/Gold2525/Gold2525/1069635.m3u8
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 paraguay
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
